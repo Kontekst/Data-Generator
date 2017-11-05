@@ -1,0 +1,6 @@
+C:\Users\Kontekstowy\Desktop\Projects\My own\GeneratorHurtownieDanych\GeneratorHurtownieDanych\bin\Debug\GeneratorHurtownieDanych.exe.config
+C:\Users\Kontekstowy\Desktop\Projects\My own\GeneratorHurtownieDanych\GeneratorHurtownieDanych\bin\Debug\GeneratorHurtownieDanych.exe
+C:\Users\Kontekstowy\Desktop\Projects\My own\GeneratorHurtownieDanych\GeneratorHurtownieDanych\bin\Debug\GeneratorHurtownieDanych.pdb
+C:\Users\Kontekstowy\Desktop\Projects\My own\GeneratorHurtownieDanych\GeneratorHurtownieDanych\obj\Debug\GeneratorHurtownieDanych.csprojResolveAssemblyReference.cache
+C:\Users\Kontekstowy\Desktop\Projects\My own\GeneratorHurtownieDanych\GeneratorHurtownieDanych\obj\Debug\GeneratorHurtownieDanych.exe
+C:\Users\Kontekstowy\Desktop\Projects\My own\GeneratorHurtownieDanych\GeneratorHurtownieDanych\obj\Debug\GeneratorHurtownieDanych.pdb

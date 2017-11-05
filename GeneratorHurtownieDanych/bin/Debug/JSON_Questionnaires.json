@@ -1,0 +1,102 @@
+[
+{
+"id": 1,
+"numerRachunku": 3,
+"kelner": "62111678286",
+"oceny": {
+"ocenaKelnera": 8,
+"ocenaRestauracji": 3,
+"ocenaPotraw": 8,
+"caloscioweZadowolenie": 1
+}
+},{
+"id": 2,
+"numerRachunku": 6,
+"kelner": "53022332080",
+"oceny": {
+"ocenaKelnera": 6,
+"ocenaRestauracji": 4,
+"ocenaPotraw": 9,
+"caloscioweZadowolenie": 5
+}
+},{
+"id": 3,
+"numerRachunku": 12,
+"kelner": "59091435212",
+"oceny": {
+"ocenaKelnera": 1,
+"ocenaRestauracji": 8,
+"ocenaPotraw": 9,
+"caloscioweZadowolenie": 2
+}
+},{
+"id": 4,
+"numerRachunku": 18,
+"kelner": "77012181552",
+"oceny": {
+"ocenaKelnera": 1,
+"ocenaRestauracji": 5,
+"ocenaPotraw": 2,
+"caloscioweZadowolenie": 3
+}
+},{
+"id": 5,
+"numerRachunku": 24,
+"kelner": "72010237085",
+"oceny": {
+"ocenaKelnera": 4,
+"ocenaRestauracji": 3,
+"ocenaPotraw": 4,
+"caloscioweZadowolenie": 7
+}
+},{
+"id": 6,
+"numerRachunku": 28,
+"kelner": "64010733778",
+"oceny": {
+"ocenaKelnera": 4,
+"ocenaRestauracji": 9,
+"ocenaPotraw": 4,
+"caloscioweZadowolenie": 7
+}
+},{
+"id": 7,
+"numerRachunku": 34,
+"kelner": "50111744088",
+"oceny": {
+"ocenaKelnera": 5,
+"ocenaRestauracji": 9,
+"ocenaPotraw": 5,
+"caloscioweZadowolenie": 1
+}
+},{
+"id": 8,
+"numerRachunku": 39,
+"kelner": "62111678286",
+"oceny": {
+"ocenaKelnera": 7,
+"ocenaRestauracji": 4,
+"ocenaPotraw": 3,
+"caloscioweZadowolenie": 6
+}
+},{
+"id": 9,
+"numerRachunku": 43,
+"kelner": "67061211833",
+"oceny": {
+"ocenaKelnera": 3,
+"ocenaRestauracji": 9,
+"ocenaPotraw": 3,
+"caloscioweZadowolenie": 9
+}
+},{
+"id": 10,
+"numerRachunku": 46,
+"kelner": "64091645628",
+"oceny": {
+"ocenaKelnera": 5,
+"ocenaRestauracji": 3,
+"ocenaPotraw": 5,
+"caloscioweZadowolenie": 6
+}
+}]
