@@ -14,7 +14,7 @@ namespace GeneratorHurtownieDanych
             new Meal("Apricot Mustard-Glazed Salmon","zestaw obiadowy", 36.25M ), new Meal( "Paleo Stuffed Cabbage","zestaw obiadowy",40M),new Meal("Dijon Pork with","zestaw obiadowy", 55M),
             new Meal("Barley water", "drink",25.50M),new Meal("Yorkshire Dragon", "drink", 15M),new Meal("Squash", "drink",22M),
             new Meal("Back bacon with fired bread","zestaw sniadaniowy", 20.50M ),new Meal("Scrambled Eggs","zestaw sniadaniowy", 18M ),new Meal("Bubble and squeak","zestaw sniadaniowy",13M),
-            new Meal("Wodka Zubr 100ml","napoj alkoholowy", 7M ), new Meal("Wodka Mr Thadeo 100ml","napoj alkoholowy", 15M ), new Meal("Argus 500ml mojito ","napoj alkoholowy" ,2M),
+            new Meal("Wodka Zubr 100ml","napoj alkoholowy", 7M ), new Meal("Wodka Mr Thadeo 100ml","napoj alkoholowy", 15M ), new Meal("Argus 500ml mojito ","napoj alkoholowy" ,4M),
             new Meal("Wino Fresco 700ml litra","napoj alkoholowy",50M ), new Meal("Piwo Tyskie 250ml","napoj alkoholowy",5M), new Meal("Piwo Harde 500 ml","napoj alkoholowy", 3M),
             new Meal("Capri 250ml","sok",6M ), new Meal("Pomidorowa","zupa",12.50M ), new Meal("Kabanosiki", "przystawka",8M), new Meal("Karpatka","deser",9M),
             new Meal("Salatka grecka","sałatka",15M ), new Meal("Capri","pizza",20.75M ), new Meal("Margharita","piza",15M ), new Meal("Prosciutto","pizza",35M),
@@ -29,6 +29,26 @@ namespace GeneratorHurtownieDanych
             StreamWriter wr = new StreamWriter("./Meals.csv");
             for (int i = 0; i < standardMeals.Count; i++)
             {
+                wr.WriteLine(standardMeals[i].name + ", " + Math.Round(standardMeals[i].actualPrice, 2).ToString(CultureInfo.CreateSpecificCulture("en-US")) + ", " + standardMeals[i].category);
+                wr.Flush();
+            }
+            wr.Close();
+        }
+
+        public void addNewMeals()
+        {
+            File.WriteAllText("Meals.csv", string.Empty);
+            StreamWriter wr = new StreamWriter("./Meals.csv");
+
+            List<Meal> newMeals = new List<Meal>()
+            {
+                new Meal("Obiadek u babci","zestaw obiadowy",20.80M ), new Meal("Gorace udka kurczaka","zestaw obiadowy",27M ), new Meal("Spaghetti alla Bollognese","zestaw obiadowy",40M),
+            };
+
+            standardMeals.AddRange(newMeals);
+
+            for (int i = 0; i < standardMeals.Count; i++){
+                standardMeals[i].actualPrice *= (decimal)rnd.Next(80, 121) / rnd.Next(80, 121);
                 wr.WriteLine(standardMeals[i].name + ", " + Math.Round(standardMeals[i].actualPrice, 2).ToString(CultureInfo.CreateSpecificCulture("en-US")) + ", " + standardMeals[i].category);
                 wr.Flush();
             }

@@ -8,21 +8,21 @@ namespace GeneratorHurtownieDanych
         {
             Waiters waiters = new Waiters();
             Meals meals = new Meals();
-            Clients clients;
-            Bills bills;
+            Clients clients = null;
+            Bills bills = null;
 
             Console.WriteLine("Witaj w generatorze danych do laboratorium z przedmiotu Hurtownie Danych");
             Console.WriteLine("Wprowadź liczbę rachunków które chcesz wygenerować w odniesieniu do pierwszego etapu - minimum 100");
-            Console.WriteLine("Sugeruję 1000");
-            
+
             //-------------------------//
             // First stage
 
             int firstAmount;
             bool argPassed = false;
 
-            do {
-                if (int.TryParse(Console.ReadLine(), out firstAmount) && firstAmount > 100)
+            do
+            {
+                if (int.TryParse(Console.ReadLine(), out firstAmount) && firstAmount > 99)
                 {
                     clients = new Clients(firstAmount);
                     bills = new Bills(firstAmount);
@@ -30,18 +30,17 @@ namespace GeneratorHurtownieDanych
                 }
                 else
                 {
-                    Console.WriteLine("Nie podano liczby lub podano ją mniejszą niż 100");
-                    Console.WriteLine("Spróbuj jeszcze raz :P");
+                    Console.WriteLine("Nie podano liczby lub podano ją mniejszą niż 100, ponów próbę");
                 }
             } while (!argPassed);
 
             JsonQuestionnaires questionaries = new JsonQuestionnaires(firstAmount);
-       
+
             //-------------------------//
             // Second stage
-
-            Console.WriteLine("Czas na drugi etap, ile pragniesz dodać rachunków, sugeruję 9000");
-
+            
+            Console.WriteLine("Podaj liczbę danych do wygenerowania w drugim etapie");
+            
             int secondAmount;
             argPassed = false;
 
@@ -49,22 +48,26 @@ namespace GeneratorHurtownieDanych
             {
                 if (int.TryParse(Console.ReadLine(), out secondAmount))
                 {
-                    //Bills.generateNewBills(secondAmount); //TODO
+                    waiters.addNewWaiters();
+                    meals.addNewMeals();
+                    clients.generateNewClients(secondAmount);
+                    bills.generateNewBills(secondAmount);
+                    argPassed = true;
                 }
                 else
                 {
-                    Console.WriteLine("Nie podano liczby, spróbuj jeszcze raz :P");
+                    Console.WriteLine("Nie podano liczby, ponów próbę");
                 }
             } while (!argPassed);
+
+            questionaries.generateNewQuestionnaires(secondAmount);
+
             //-------------------------//
-            Console.WriteLine("SUPER, udało się, teraz możesz przetwarzać te dane do woli");
 
-            //JsonQuestionnaires.generateNewQuestionnaires(secondAmount); //TODO
-
-            for (int i = 0; i < 10; i++)
-            {
-                Console.WriteLine(" <<!!! !!! ETL !!! !!!>>");
-            }
+            Console.WriteLine("Udało się pomyślnie wygenerować wszystkie dane");
         }
     }
 }
+
+//TODO czy Math.Rounds(arg,2) to najlepszy sposób zaokrąglania??
+//TODO zapewnić aby każdy klient na dowóz miał min.1 zamówienie poprzez dodanie go przed wywołaniem konstruktora klienta ??

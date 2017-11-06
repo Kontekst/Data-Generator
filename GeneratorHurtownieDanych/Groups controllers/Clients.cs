@@ -26,6 +26,7 @@ namespace GeneratorHurtownieDanych
         public static List<Client> clients = new List<Client>();
         public static List<string> telephoneNumbers = new List<string>();
         private static int firstRange;
+
         public Clients(int argFirstRange)
         {
             firstRange = argFirstRange;
@@ -58,7 +59,38 @@ namespace GeneratorHurtownieDanych
             }
             wr.Close();
         }
-        
+
+        public void generateNewClients( int argSecondAmount)
+        {
+            string telephoneNumber;
+            string firstName;
+            string lastName;
+            string streetName;
+            string houseNumber;
+            string apartmentNumber;
+            StreamWriter wr = new StreamWriter("./Clients.csv", append: true);
+            for (int i = 0; i < argSecondAmount/5; i++)
+            {
+                telephoneNumber = randomTelephoneNumber();
+                firstName = FirstNames[randomIndexOfFirstName()];
+                lastName = LastNames[randomIndexOfLastName()];
+                streetName = StreetNames[randomIndexOfStreetName()];
+                houseNumber = rnd.Next(0, 50).ToString();
+                apartmentNumber = rnd.Next(0, 40).ToString();
+
+                if (apartmentNumber == "0")
+                {
+                    apartmentNumber = null;
+                }
+
+                Client newClient = new Client(firstName, lastName, telephoneNumber, streetName, houseNumber, apartmentNumber);
+                clients.Add(newClient);
+                wr.WriteLine(firstName + ", " + lastName + "," + telephoneNumber + ", " + streetName + ", " + houseNumber + ", " + apartmentNumber + ", " + newClient.registrationNumber);
+                wr.Flush();
+            }
+            wr.Close();
+        }
+
         //-------------------------//
 
         private static int randomIndexOfFirstName()

@@ -38,7 +38,7 @@ namespace GeneratorHurtownieDanych
                 cost += tempPosition.cost * tempPosition.amount;
             }
 
-            tip = cost / 10M * rnd.Next(80,121)/rnd.Next(80,121);
+            tip = cost / 10M * rnd.Next(80, 121) / rnd.Next(80,121);
         }
     }
 }

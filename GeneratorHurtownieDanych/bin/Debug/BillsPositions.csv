@@ -1,117 +1,2185 @@
-61.96, 5, 1, Wino Fresco 700ml litra, 2
-29.62, 3, 1, Spicy Thai Basil Chicken, 3
-35.36, 1, 2, Prosciutto, 4
-12.14, 3, 2, Karpatka, 5
-46.44, 2, 3, Indian Chicken Curry, 6
-21.43, 3, 4, Capri, 7
-8.49, 5, 4, Kabanosiki, 8
-18.78, 3, 5, Back bacon with fired bread, 9
-18.25, 5, 5, Margharita, 10
-8.53, 4, 6, Kabanosiki, 11
-1.55, 2, 6, Argus 500ml mojito , 12
-11.88, 2, 7, Margharita, 13
-17.10, 5, 7, Wodka Mr Thadeo 100ml, 14
-45.37, 1, 8, Paleo Stuffed Cabbage, 15
-69.05, 3, 8, Wino Fresco 700ml litra, 16
-10.44, 2, 8, Kabanosiki, 17
-10.04, 2, 9, Wodka Zubr 100ml, 18
-7.15, 4, 10, Karpatka, 19
-23.85, 4, 11, Barley water, 20
-8.32, 4, 11, Wodka Zubr 100ml, 21
-35.88, 4, 12, Indian Chicken Curry, 22
-15.65, 3, 13, Scrambled Eggs, 23
-8.64, 5, 14, Wodka Zubr 100ml, 24
-21.62, 5, 15, Squash, 25
-52.08, 5, 16, Dijon Pork with, 26
-13.78, 2, 16, Margharita, 27
-20.37, 4, 16, Capri, 28
-4.50, 3, 17, Piwo Tyskie 250ml, 29
-20.50, 3, 17, Back bacon with fired bread, 30
-21.44, 3, 17, Barley water, 31
-2.68, 5, 18, Piwo Harde 500 ml, 32
-25.83, 3, 18, Capri, 33
-3.53, 4, 18, Piwo Harde 500 ml, 34
-36.49, 5, 19, Paleo Stuffed Cabbage, 35
-9.62, 4, 19, Pomidorowa, 36
-13.36, 1, 19, Yorkshire Dragon, 37
-43.96, 5, 20, Paleo Stuffed Cabbage, 38
-13, 5, 20, Wodka Mr Thadeo 100ml, 39
-15.33, 3, 20, Salatka grecka, 40
-7.52, 5, 21, Wodka Zubr 100ml, 41
-25.3, 4, 21, Squash, 42
-37.86, 4, 22, Kielbasa with Brussels, 43
-1.75, 1, 22, Argus 500ml mojito , 44
-1.91, 5, 22, Argus 500ml mojito , 45
-2.02, 1, 23, Argus 500ml mojito , 46
-14.62, 2, 23, Scrambled Eggs, 47
-22.47, 5, 24, Barley water, 48
-22, 1, 24, Squash, 49
-10.76, 5, 25, Karpatka, 50
-3.26, 2, 25, Piwo Harde 500 ml, 51
-20.60, 5, 25, Scrambled Eggs, 52
-14.43, 4, 25, Bubble and squeak, 53
-31.72, 4, 26, Paleo Stuffed Cabbage, 54
-8.12, 5, 26, Karpatka, 55
-18.71, 3, 26, Scrambled Eggs, 56
-68.32, 1, 27, Sandacz po szwedzku, 57
-46.52, 4, 27, Indian Chicken Curry, 58
-5.55, 2, 27, Capri 250ml, 59
-7.34, 4, 28, Kabanosiki, 60
-35.30, 4, 28, Prosciutto, 61
-17.89, 1, 28, Squash, 62
-17.21, 3, 28, Wodka Mr Thadeo 100ml, 63
-19.51, 5, 29, Back bacon with fired bread, 64
-3.47, 5, 29, Piwo Harde 500 ml, 65
-17.79, 4, 30, Squash, 66
-32.26, 5, 30, Barley water, 67
-30.55, 2, 31, Prosciutto, 68
-48.75, 3, 31, Wino Fresco 700ml litra, 69
-10.95, 4, 32, Kabanosiki, 70
-14.13, 2, 33, Margharita, 71
-18.42, 1, 33, Yorkshire Dragon, 72
-4.40, 1, 33, Piwo Tyskie 250ml, 73
-32.15, 4, 34, Barley water, 74
-30.36, 4, 34, Spicy Thai Basil Chicken, 75
-47.74, 5, 35, Apricot Mustard-Glazed Salmon, 76
-5.66, 3, 35, Kabanosiki, 77
-14.33, 4, 35, Wodka Mr Thadeo 100ml, 78
-12.56, 5, 36, Wodka Mr Thadeo 100ml, 79
-12.38, 3, 36, Pomidorowa, 80
-27.15, 3, 37, Squash, 81
-28.34, 4, 37, Capri, 82
-4.95, 4, 38, Piwo Tyskie 250ml, 83
-16.15, 1, 38, Scrambled Eggs, 84
-18.34, 2, 39, Scrambled Eggs, 85
-37.59, 3, 40, Prosciutto, 86
-39.64, 4, 40, Apricot Mustard-Glazed Salmon, 87
-53.89, 3, 40, Sandacz po szwedzku, 88
-2.56, 2, 41, Piwo Harde 500 ml, 89
-25.00, 5, 42, Back bacon with fired bread, 90
-50.62, 1, 42, Sandacz po szwedzku, 91
-8.93, 1, 43, Kabanosiki, 92
-8.8, 1, 43, Kabanosiki, 93
-18.68, 3, 43, Capri, 94
-65.77, 5, 44, Dijon Pork with, 95
-30.26, 1, 45, Apricot Mustard-Glazed Salmon, 96
-12.24, 2, 45, Bubble and squeak, 97
-26.48, 5, 45, Kielbasa with Brussels, 98
-5.90, 4, 46, Piwo Tyskie 250ml, 99
-32.75, 3, 46, Spicy Thai Basil Chicken, 100
-2.58, 2, 46, Argus 500ml mojito , 101
-36.91, 2, 47, Prosciutto, 102
-2.94, 3, 47, Argus 500ml mojito , 103
-25.57, 4, 48, Spicy Thai Basil Chicken, 104
-14.59, 5, 48, Wodka Mr Thadeo 100ml, 105
-8.78, 2, 48, Capri 250ml, 106
-16.24, 2, 49, Margharita, 107
-36.37, 4, 49, Kielbasa with Brussels, 108
-49.17, 3, 49, Paleo Stuffed Cabbage, 109
-16.69, 3, 50, Yorkshire Dragon, 110
-31.62, 1, 50, Spicy Thai Basil Chicken, 111
-15.43, 3, 51, Scrambled Eggs, 112
-8.98, 3, 51, Kabanosiki, 113
-14.73, 3, 52, Salatka grecka, 114
-17.23, 2, 52, Wodka Mr Thadeo 100ml, 115
-7.45, 4, 53, Wodka Zubr 100ml, 116
-5.27, 1, 53, Piwo Tyskie 250ml, 117
-5.69, 1, 53, Capr
+18.22, 5, 1, Scrambled Eggs, 2
+17.89, 2, 2, Squash, 3
+15.61, 2, 3, Capri, 4
+22.22, 4, 4, Squash, 5
+11.74, 1, 4, Pomidorowa, 6
+27.44, 5, 4, Barley water, 7
+21.50, 1, 5, Back bacon with fired bread, 8
+3.14, 1, 6, Piwo Harde 500 ml, 9
+16.76, 3, 6, Bubble and squeak, 10
+13.23, 5, 7, Yorkshire Dragon, 11
+31.86, 4, 7, Kielbasa with Brussels, 12
+11.97, 4, 7, Pomidorowa, 13
+9.10, 4, 8, Karpatka, 14
+5.68, 3, 9, Capri 250ml, 15
+12.71, 1, 9, Wodka Mr Thadeo 100ml, 16
+37.66, 1, 9, Apricot Mustard-Glazed Salmon, 17
+6.53, 4, 10, Wodka Zubr 100ml, 18
+5.79, 2, 10, Wodka Zubr 100ml, 19
+32.97, 2, 10, Prosciutto, 20
+20.89, 3, 10, Margharita, 21
+57.47, 3, 11, Dijon Pork with, 22
+10.35, 4, 11, Pomidorowa, 23
+17.29, 1, 11, Capri, 24
+8.58, 2, 12, Karpatka, 25
+23.26, 5, 13, Scrambled Eggs, 26
+15.16, 4, 13, Margharita, 27
+8.37, 4, 13, Kabanosiki, 28
+14.30, 3, 14, Wodka Mr Thadeo 100ml, 29
+25.59, 5, 14, Apricot Mustard-Glazed Salmon, 30
+12.01, 2, 15, Bubble and squeak, 31
+11.62, 5, 15, Yorkshire Dragon, 32
+33.61, 2, 16, Spicy Thai Basil Chicken, 33
+20.14, 1, 16, Back bacon with fired bread, 34
+4.85, 5, 17, Capri 250ml, 35
+28.23, 5, 18, Kielbasa with Brussels, 36
+25.74, 2, 18, Back bacon with fired bread, 37
+12.41, 4, 18, Salatka grecka, 38
+4.96, 2, 18, Piwo Tyskie 250ml, 39
+52.29, 4, 19, Wino Fresco 700ml litra, 40
+3.44, 2, 19, Argus 500ml mojito , 41
+22.48, 4, 19, Squash, 42
+2.69, 1, 20, Piwo Harde 500 ml, 43
+11.22, 5, 20, Wodka Mr Thadeo 100ml, 44
+15.38, 3, 20, Bubble and squeak, 45
+17.5, 4, 21, Margharita, 46
+4.04, 3, 21, Argus 500ml mojito , 47
+15.91, 5, 21, Margharita, 48
+22.02, 4, 22, Scrambled Eggs, 49
+8.30, 5, 22, Karpatka, 50
+14.44, 2, 23, Wodka Mr Thadeo 100ml, 51
+19.83, 3, 23, Wodka Mr Thadeo 100ml, 52
+38.17, 1, 24, Apricot Mustard-Glazed Salmon, 53
+7.25, 1, 25, Karpatka, 54
+40.14, 3, 25, Dijon Pork with, 55
+51.34, 1, 25, Wino Fresco 700ml litra, 56
+28.31, 4, 26, Apricot Mustard-Glazed Salmon, 57
+7.63, 1, 27, Kabanosiki, 58
+14.42, 2, 27, Capri, 59
+12.14, 4, 28, Karpatka, 60
+2.94, 5, 28, Piwo Harde 500 ml, 61
+10.44, 1, 28, Karpatka, 62
+27.41, 4, 29, Kielbasa with Brussels, 63
+4.28, 4, 29, Piwo Tyskie 250ml, 64
+10, 3, 29, Kabanosiki, 65
+23.43, 1, 30, Barley water, 66
+11.2, 4, 30, Karpatka, 67
+23.67, 2, 30, Squash, 68
+15.11, 2, 31, Capri, 69
+5.11, 4, 31, Argus 500ml mojito , 70
+29.32, 3, 32, Kielbasa with Brussels, 71
+49.48, 4, 32, Wino Fresco 700ml litra, 72
+2.68, 1, 32, Piwo Harde 500 ml, 73
+8.99, 1, 33, Kabanosiki, 74
+16.25, 1, 34, Wodka Mr Thadeo 100ml, 75
+32.86, 3, 34, Indian Chicken Curry, 76
+26.48, 3, 35, Prosciutto, 77
+25.80, 5, 36, Barley water, 78
+20.07, 4, 36, Back bacon with fired bread, 79
+31.82, 3, 37, Prosciutto, 80
+24.45, 1, 37, Back bacon with fired bread, 81
+12.5, 1, 38, Margharita, 82
+2.97, 2, 38, Piwo Harde 500 ml, 83
+6.65, 4, 39, Kabanosiki, 84
+4.78, 2, 39, Capri 250ml, 85
+4.55, 3, 39, Argus 500ml mojito , 86
+52.08, 3, 40, Dijon Pork with, 87
+27.12, 2, 40, Squash, 88
+9.17, 4, 41, Karpatka, 89
+26.96, 4, 41, Barley water, 90
+4.70, 3, 42, Piwo Tyskie 250ml, 91
+27.74, 1, 43, Back bacon with fired bread, 92
+7.73, 5, 43, Capri 250ml, 93
+4.33, 3, 43, Capri 250ml, 94
+31.62, 2, 44, Prosciutto, 95
+16.55, 1, 44, Squash, 96
+51.53, 1, 44, Wino Fresco 700ml litra, 97
+41, 5, 45, Wino Fresco 700ml litra, 98
+13.12, 5, 46, Bubble and squeak, 99
+29.01, 2, 46, Kielbasa with Brussels, 100
+3.89, 4, 47, Argus 500ml mojito , 101
+44.61, 4, 47, Wino Fresco 700ml litra, 102
+12.08, 4, 47, Salatka grecka, 103
+33.93, 3, 47, Prosciutto, 104
+20.22, 5, 48, Capri, 105
+10.68, 4, 49, Bubble and squeak, 106
+35.92, 5, 50, Paleo Stuffed Cabbage, 107
+18.18, 5, 50, Squash, 108
+12.05, 4, 51, Bubble and squeak, 109
+15.80, 2, 51, Scrambled Eggs, 110
+80.34, 3, 52, Sandacz po szwedzku, 111
+19.64, 1, 52, Back bacon with fired bread, 112
+17.01, 1, 53, Squash, 113
+28.81, 3, 53, Apricot Mustard-Glazed Salmon, 114
+34.34, 2, 54, Paleo Stuffed Cabbage, 115
+16.58, 4, 54, Salatka grecka, 116
+16.05, 3, 55, Pomidorowa, 117
+4.04, 4, 55, Piwo Harde 500 ml, 118
+12.09, 4, 56, Bubble and squeak, 119
+14.17, 2, 56, Salatka grecka, 120
+23.54, 1, 56, Barley water, 121
+33.15, 1, 57, Indian Chicken Curry, 122
+4.60, 2, 57, Piwo Tyskie 250ml, 123
+5.03, 2, 58, Capri 250ml, 124
+18.78, 3, 59, Back bacon with fired bread, 125
+3.19, 3, 59, Piwo Harde 500 ml, 126
+45.83, 3, 59, Dijon Pork with, 127
+12.84, 1, 59, Wodka Mr Thadeo 100ml, 128
+20.99, 3, 60, Capri, 129
+30.18, 3, 61, Spicy Thai Basil Chicken, 130
+26.02, 2, 61, Spicy Thai Basil Chicken, 131
+29.72, 2, 62, Back bacon with fired bread, 132
+43.04, 2, 62, Paleo Stuffed Cabbage, 133
+7.06, 4, 63, Wodka Zubr 100ml, 134
+22.42, 5, 64, Kielbasa with Brussels, 135
+4.33, 2, 65, Piwo Tyskie 250ml, 136
+6.19, 3, 66, Capri 250ml, 137
+30.86, 5, 66, Prosciutto, 138
+11.24, 3, 66, Pomidorowa, 139
+11.77, 2, 67, Pomidorowa, 140
+25.78, 1, 67, Barley water, 141
+12.82, 1, 67, Margharita, 142
+7.07, 5, 68, Wodka Zubr 100ml, 143
+4.11, 4, 68, Argus 500ml mojito , 144
+6.35, 5, 69, Wodka Zubr 100ml, 145
+4.08, 1, 69, Argus 500ml mojito , 146
+34.39, 2, 69, Paleo Stuffed Cabbage, 147
+18.21, 5, 70, Barley water, 148
+33.99, 2, 70, Prosciutto, 149
+68.98, 3, 70, Sandacz po szwedzku, 150
+21.75, 3, 71, Capri, 151
+2.91, 5, 71, Piwo Harde 500 ml, 152
+17.28, 2, 71, Bubble and squeak, 153
+16.44, 4, 72, Back bacon with fired bread, 154
+11.48, 4, 73, Margharita, 155
+3.21, 2, 73, Argus 500ml mojito , 156
+8.4, 1, 74, Wodka Zubr 100ml, 157
+13.66, 5, 74, Yorkshire Dragon, 158
+70.55, 2, 75, Sandacz po szwedzku, 159
+21.31, 4, 75, Scrambled Eggs, 160
+15.13, 3, 75, Salatka grecka, 161
+35.66, 4, 76, Spicy Thai Basil Chicken, 162
+9.70, 4, 76, Kabanosiki, 163
+12.18, 3, 76, Pomidorowa, 164
+20.12, 2, 77, Yorkshire Dragon, 165
+19.70, 5, 78, Back bacon with fired bread, 166
+14.34, 1, 78, Margharita, 167
+40.84, 1, 78, Paleo Stuffed Cabbage, 168
+5.98, 4, 78, Kabanosiki, 169
+4.27, 4, 79, Argus 500ml mojito , 170
+8.09, 3, 79, Kabanosiki, 171
+52.41, 1, 79, Dijon Pork with, 172
+27.10, 4, 80, Squash, 173
+13.59, 2, 80, Salatka grecka, 174
+28.41, 5, 81, Barley water, 175
+17.82, 2, 81, Scrambled Eggs, 176
+8.14, 4, 81, Wodka Zubr 100ml, 177
+29.24, 5, 82, Indian Chicken Curry, 178
+13.8, 1, 83, Wodka Mr Thadeo 100ml, 179
+42.27, 5, 83, Dijon Pork with, 180
+26.33, 4, 84, Spicy Thai Basil Chicken, 181
+22.55, 3, 84, Scrambled Eggs, 182
+5.70, 4, 84, Capri 250ml, 183
+9.10, 2, 85, Karpatka, 184
+11.8, 5, 85, Kabanosiki, 185
+37.19, 1, 85, Kielbasa with Brussels, 186
+51.18, 3, 86, Wino Fresco 700ml litra, 187
+6.34, 1, 86, Capri 250ml, 188
+24.61, 2, 86, Barley water, 189
+12.29, 4, 87, Pomidorowa, 190
+29.60, 4, 88, Apricot Mustard-Glazed Salmon, 191
+14.01, 1, 88, Pomidorowa, 192
+34.25, 2, 89, Prosciutto, 193
+39.30, 3, 89, Indian Chicken Curry, 194
+45.54, 1, 89, Spicy Thai Basil Chicken, 195
+45.69, 2, 90, Wino Fresco 700ml litra, 196
+37.94, 1, 91, Paleo Stuffed Cabbage, 197
+3.32, 5, 92, Argus 500ml mojito , 198
+25.20, 3, 92, Kielbasa with Brussels, 199
+14.69, 2, 92, Wodka Mr Thadeo 100ml, 200
+30.77, 2, 92, Indian Chicken Curry, 201
+44.70, 3, 93, Kielbasa with Brussels, 202
+21.70, 1, 93, Capri, 203
+19.19, 3, 93, Salatka grecka, 204
+51.46, 2, 94, Wino Fresco 700ml litra, 205
+11.83, 5, 95, Margharita, 206
+10.01, 5, 96, Karpatka, 207
+39.27, 4, 96, Spicy Thai Basil Chicken, 208
+20.36, 3, 97, Yorkshire Dragon, 209
+32.79, 2, 97, Kielbasa with Brussels, 210
+23.72, 2, 97, Barley water, 211
+18.38, 2, 98, Margharita, 212
+30, 5, 98, Indian Chicken Curry, 213
+7.74, 1, 99, Karpatka, 214
+13.62, 3, 100, Bubble and squeak, 215
+11.84, 3, 100, Pomidorowa, 216
+49.5, 5, 101, Dijon Pork with, 217
+3.18, 1, 102, Piwo Harde 500 ml, 218
+22.41, 5, 102, Back bacon with fired bread, 219
+11.82, 2, 102, Margharita, 220
+7.64, 5, 103, Wodka Zubr 100ml, 221
+16.59, 2, 103, Squash, 222
+14.47, 2, 104, Wodka Mr Thadeo 100ml, 223
+23.47, 1, 104, Capri, 224
+3.77, 3, 105, Piwo Harde 500 ml, 225
+9.64, 3, 105, Pomidorowa, 226
+10.44, 3, 106, Karpatka, 227
+23.68, 1, 106, Capri, 228
+9.87, 4, 107, Karpatka, 229
+16.65, 5, 107, Wodka Mr Thadeo 100ml, 230
+4, 3, 107, Argus 500ml mojito , 231
+6.84, 3, 108, Wodka Zubr 100ml, 232
+19.83, 2, 108, Capri, 233
+14.43, 3, 109, Yorkshire Dragon, 234
+24.17, 3, 109, Squash, 235
+13.15, 1, 110, Pomidorowa, 236
+12.27, 3, 110, Margharita, 237
+13.62, 1, 111, Pomidorowa, 238
+10.77, 2, 111, Yorkshire Dragon, 239
+4, 4, 111, Argus 500ml mojito , 240
+7.07, 4, 111, Capri 250ml, 241
+39.65, 2, 112, Paleo Stuffed Cabbage, 242
+3.28, 2, 112, Piwo Harde 500 ml, 243
+19.38, 5, 112, Wodka Mr Thadeo 100ml, 244
+36.26, 3, 113, Indian Chicken Curry, 245
+11.73, 1, 114, Pomidorowa, 246
+6.30, 1, 115, Capri 250ml, 247
+4.14, 2, 115, Piwo Tyskie 250ml, 248
+48.5, 4, 115, Dijon Pork with, 249
+60.56, 1, 116, Sandacz po szwedzku, 250
+40.90, 1, 116, Dijon Pork with, 251
+12.57, 3, 117, Yorkshire Dragon, 252
+28.81, 1, 117, Capri, 253
+16.14, 1, 117, Scrambled Eggs, 254
+42.07, 1, 118, Apricot Mustard-Glazed Salmon, 255
+7.93, 2, 118, Kabanosiki, 256
+8.19, 1, 119, Kabanosiki, 257
+29.91, 2, 119, Apricot Mustard-Glazed Salmon, 258
+17.19, 3, 119, Wodka Mr Thadeo 100ml, 259
+11.85, 3, 119, Pomidorowa, 260
+4.57, 4, 120, Argus 500ml mojito , 261
+14.35, 3, 120, Yorkshire Dragon, 262
+4.15, 4, 120, Argus 500ml mojito , 263
+7.34, 3, 121, Capri 250ml, 264
+17.45, 1, 122, Wodka Mr Thadeo 100ml, 265
+44.35, 2, 122, Indian Chicken Curry, 266
+37, 5, 122, Prosciutto, 267
+20.95, 2, 123, Back bacon with fired bread, 268
+7.21, 1, 123, Wodka Zubr 100ml, 269
+12, 5, 124, Scrambled Eggs, 270
+25.25, 3, 124, Barley water, 271
+13.06, 4, 124, Salatka grecka, 272
+74.01, 1, 125, Dijon Pork with, 273
+15.21, 5, 125, Bubble and squeak, 274
+23.4, 3, 125, Squash, 275
+36.85, 1, 126, Paleo Stuffed Cabbage, 276
+18.84, 1, 126, Scrambled Eggs, 277
+20.98, 3, 126, Back bacon with fired bread, 278
+4.81, 4, 127, Capri 250ml, 279
+35.33, 3, 127, Kielbasa with Brussels, 280
+40, 4, 128, Spicy Thai Basil Chicken, 281
+16.78, 4, 129, Squash, 282
+48.73, 3, 129, Dijon Pork with, 283
+13.16, 1, 130, Yorkshire Dragon, 284
+17.62, 3, 130, Yorkshire Dragon, 285
+46.22, 1, 130, Paleo Stuffed Cabbage, 286
+54.74, 1, 131, Wino Fresco 700ml litra, 287
+19.18, 3, 131, Capri, 288
+17.96, 1, 132, Back bacon with fired bread, 289
+11.76, 1, 133, Bubble and squeak, 290
+18.59, 5, 133, Squash, 291
+25.21, 1, 134, Back bacon with fired bread, 292
+8.20, 4, 134, Wodka Zubr 100ml, 293
+18.59, 3, 135, Margharita, 294
+16.20, 4, 135, Pomidorowa, 295
+20.39, 3, 136, Capri, 296
+4.67, 1, 136, Argus 500ml mojito , 297
+34.05, 4, 137, Spicy Thai Basil Chicken, 298
+18.75, 4, 138, Wodka Mr Thadeo 100ml, 299
+5.49, 5, 138, Capri 250ml, 300
+10.79, 1, 138, Bubble and squeak, 301
+11.96, 3, 139, Bubble and squeak, 302
+15.05, 5, 139, Pomidorowa, 303
+3.78, 3, 140, Argus 500ml mojito , 304
+52.72, 5, 140, Wino Fresco 700ml litra, 305
+47.62, 4, 140, Wino Fresco 700ml litra, 306
+43.55, 1, 141, Prosciutto, 307
+2.89, 2, 141, Piwo Harde 500 ml, 308
+60.76, 4, 141, Sandacz po szwedzku, 309
+53.83, 2, 141, Paleo Stuffed Cabbage, 310
+16.55, 1, 142, Margharita, 311
+77.26, 2, 142, Dijon Pork with, 312
+6.65, 2, 143, Piwo Tyskie 250ml, 313
+42.95, 2, 144, Apricot Mustard-Glazed Salmon, 314
+52.87, 4, 145, Indian Chicken Curry, 315
+36, 1, 146, Paleo Stuffed Cabbage, 316
+30.18, 3, 146, Paleo Stuffed Cabbage, 317
+16.96, 5, 147, Salatka grecka, 318
+18.45, 5, 147, Scrambled Eggs, 319
+5.83, 1, 148, Piwo Tyskie 250ml, 320
+58.85, 5, 148, Wino Fresco 700ml litra, 321
+4.64, 2, 149, Argus 500ml mojito , 322
+17.21, 2, 149, Salatka grecka, 323
+4.43, 3, 150, Argus 500ml mojito , 324
+27.94, 1, 150, Prosciutto, 325
+42.77, 1, 150, Indian Chicken Curry, 326
+3.17, 1, 151, Argus 500ml mojito , 327
+5.14, 1, 151, Capri 250ml, 328
+14.83, 2, 151, Yorkshire Dragon, 329
+46.8, 4, 151, Indian Chicken Curry, 330
+65.63, 5, 152, Sandacz po szwedzku, 331
+44.78, 1, 153, Spicy Thai Basil Chicken, 332
+56.81, 2, 153, Sandacz po szwedzku, 333
+26.36, 5, 154, Kielbasa with Brussels, 334
+15.65, 2, 154, Yorkshire Dragon, 335
+2.47, 3, 155, Piwo Harde 500 ml, 336
+43.41, 2, 156, Apricot Mustard-Glazed Salmon, 337
+42.42, 1, 156, Apricot Mustard-Glazed Salmon, 338
+23.28, 3, 157, Capri, 339
+31.72, 3, 158, Apricot Mustard-Glazed Salmon, 340
+47.23, 1, 159, Prosciutto, 341
+15.79, 4, 159, Bubble and squeak, 342
+28.92, 4, 160, Barley water, 343
+56.25, 5, 160, Wino Fresco 700ml litra, 344
+26.56, 4, 160, Spicy Thai Basil Chicken, 345
+35.30, 2, 161, Prosciutto, 346
+31.67, 4, 161, Barley water, 347
+6.29, 4, 162, Wodka Zubr 100ml, 348
+15.52, 5, 163, Bubble and squeak, 349
+37.73, 3, 163, Kielbasa with Brussels, 350
+23.55, 5, 164, Squash, 351
+6.55, 4, 164, Capri 250ml, 352
+13.32, 5, 164, Yorkshire Dragon, 353
+13.57, 5, 165, Salatka grecka, 354
+14.87, 3, 166, Salatka grecka, 355
+41.30, 4, 167, Paleo Stuffed Cabbage, 356
+5.27, 5, 167, Piwo Tyskie 250ml, 357
+11.35, 4, 167, Margharita, 358
+34.66, 4, 168, Apricot Mustard-Glazed Salmon, 359
+12.38, 3, 168, Salatka grecka, 360
+17.16, 2, 169, Wodka Mr Thadeo 100ml, 361
+62.15, 1, 169, Sandacz po szwedzku, 362
+28.40, 1, 169, Apricot Mustard-Glazed Salmon, 363
+52.06, 5, 170, Wino Fresco 700ml litra, 364
+69.43, 2, 171, Sandacz po szwedzku, 365
+17.5, 1, 171, Scrambled Eggs, 366
+21.81, 4, 172, Squash, 367
+56.47, 4, 172, Indian Chicken Curry, 368
+11.5, 2, 173, Yorkshire Dragon, 369
+25, 5, 173, Prosciutto, 370
+41.20, 3, 174, Wino Fresco 700ml litra, 371
+53.33, 4, 174, Paleo Stuffed Cabbage, 372
+7.09, 3, 175, Kabanosiki, 373
+15.86, 5, 176, Margharita, 374
+30.92, 1, 176, Indian Chicken Curry, 375
+15.47, 1, 176, Capri, 376
+20.00, 2, 176, Barley water, 377
+2.76, 5, 177, Argus 500ml mojito , 378
+43.12, 1, 177, Wino Fresco 700ml litra, 379
+10.81, 4, 178, Margharita, 380
+11.64, 4, 179, Salatka grecka, 381
+19.58, 5, 179, Back bacon with fired bread, 382
+33.10, 4, 179, Apricot Mustard-Glazed Salmon, 383
+46.38, 2, 180, Spicy Thai Basil Chicken, 384
+16.45, 5, 180, Yorkshire Dragon, 385
+11.93, 4, 181, Karpatka, 386
+16.46, 3, 182, Scrambled Eggs, 387
+3.40, 5, 182, Piwo Tyskie 250ml, 388
+20.72, 4, 182, Back bacon with fired bread, 389
+17.29, 3, 183, Squash, 390
+20.17, 3, 183, Wodka Mr Thadeo 100ml, 391
+6.36, 5, 183, Kabanosiki, 392
+17.98, 2, 184, Squash, 393
+6.59, 1, 185, Karpatka, 394
+37.02, 4, 185, Paleo Stuffed Cabbage, 395
+11.58, 1, 186, Pomidorowa, 396
+37.45, 4, 186, Apricot Mustard-Glazed Salmon, 397
+26.07, 1, 187, Squash, 398
+9.35, 5, 187, Kabanosiki, 399
+44.92, 1, 187, Wino Fresco 700ml litra, 400
+7.11, 2, 187, Kabanosiki, 401
+48.94, 2, 188, Paleo Stuffed Cabbage, 402
+3.67, 1, 188, Argus 500ml mojito , 403
+15.61, 2, 189, Capri, 404
+3.61, 2, 189, Argus 500ml mojito , 405
+26.06, 5, 189, Kielbasa with Brussels, 406
+23.47, 1, 189, Squash, 407
+7.02, 3, 190, Capri 250ml, 408
+20.05, 4, 190, Barley water, 409
+47.22, 3, 191, Sandacz po szwedzku, 410
+35.58, 1, 192, Barley water, 411
+46.53, 4, 193, Prosciutto, 412
+31.61, 3, 193, Prosciutto, 413
+25.81, 3, 194, Back bacon with fired bread, 414
+10.14, 2, 194, Bubble and squeak, 415
+51.38, 4, 194, Sandacz po szwedzku, 416
+8, 3, 194, Kabanosiki, 417
+49.09, 3, 195, Dijon Pork with, 418
+51.03, 1, 196, Paleo Stuffed Cabbage, 419
+29.75, 3, 196, Spicy Thai Basil Chicken, 420
+71.43, 3, 196, Wino Fresco 700ml litra, 421
+46.55, 4, 196, Wino Fresco 700ml litra, 422
+15.32, 4, 197, Yorkshire Dragon, 423
+54.46, 1, 197, Dijon Pork with, 424
+19.76, 1, 198, Scrambled Eggs, 425
+71.03, 5, 199, Sandacz po szwedzku, 426
+11.54, 3, 199, Karpatka, 427
+21.82, 5, 199, Scrambled Eggs, 428
+19.86, 1, 200, Squash, 429
+34.57, 4, 200, Prosciutto, 430
+7.74, 5, 200, Kabanosiki, 431
+9.64, 4, 201, Kabanosiki, 432
+41.64, 3, 201, Dijon Pork with, 433
+31.28, 5, 201, Barley water, 434
+40.62, 4, 201, Wino Fresco 700ml litra, 435
+14.13, 2, 202, Pomidorowa, 436
+15.64, 4, 202, Margharita, 437
+7.03, 2, 202, Capri 250ml, 438
+8, 4, 203, Wodka Zubr 100ml, 439
+26.00, 1, 203, Back bacon with fired bread, 440
+13.96, 2, 203, Pomidorowa, 441
+24.28, 2, 204, Squash, 442
+42.54, 4, 204, Apricot Mustard-Glazed Salmon, 443
+20.40, 1, 204, Barley water, 444
+23.73, 2, 205, Prosciutto, 445
+18.86, 4, 206, Squash, 446
+16.81, 4, 206, Salatka grecka, 447
+6.17, 5, 206, Capri 250ml, 448
+23.12, 1, 207, Barley water, 449
+25.29, 5, 207, Barley water, 450
+10.69, 5, 208, Karpatka, 451
+48.67, 1, 209, Indian Chicken Curry, 452
+3.79, 2, 209, Piwo Tyskie 250ml, 453
+2.89, 1, 210, Piwo Harde 500 ml, 454
+3.18, 5, 210, Piwo Harde 500 ml, 455
+11.32, 3, 211, Salatka grecka, 456
+15.31, 3, 211, Yorkshire Dragon, 457
+6.94, 1, 212, Wodka Zubr 100ml, 458
+40.49, 2, 212, Spicy Thai Basil Chicken, 459
+25.72, 2, 212, Kielbasa with Brussels, 460
+25.50, 3, 213, Barley water, 461
+20.52, 3, 214, Capri, 462
+23.50, 3, 214, Capri, 463
+18.2, 4, 215, Bubble and squeak, 464
+16.68, 4, 216, Back bacon with fired bread, 465
+38.46, 4, 216, Indian Chicken Curry, 466
+32.09, 4, 216, Barley water, 467
+64.71, 3, 217, Dijon Pork with, 468
+32.29, 5, 217, Indian Chicken Curry, 469
+24.82, 5, 218, Kielbasa with Brussels, 470
+60.09, 4, 218, Dijon Pork with, 471
+11.61, 1, 219, Bubble and squeak, 472
+8.39, 5, 219, Karpatka, 473
+6.76, 4, 219, Piwo Tyskie 250ml, 474
+17.80, 1, 220, Scrambled Eggs, 475
+38.76, 2, 221, Spicy Thai Basil Chicken, 476
+3.61, 2, 221, Piwo Harde 500 ml, 477
+21.14, 2, 222, Barley water, 478
+15.93, 1, 222, Wodka Mr Thadeo 100ml, 479
+11.45, 5, 222, Karpatka, 480
+39.96, 3, 223, Dijon Pork with, 481
+2.97, 1, 223, Argus 500ml mojito , 482
+38.10, 4, 224, Kielbasa with Brussels, 483
+7.55, 4, 225, Karpatka, 484
+5.74, 3, 226, Piwo Tyskie 250ml, 485
+12.39, 3, 226, Salatka grecka, 486
+72.30, 1, 227, Sandacz po szwedzku, 487
+2.78, 3, 227, Argus 500ml mojito , 488
+53.13, 5, 227, Sandacz po szwedzku, 489
+6.11, 3, 228, Capri 250ml, 490
+37.39, 2, 228, Spicy Thai Basil Chicken, 491
+17.36, 1, 229, Capri, 492
+3.32, 3, 229, Piwo Harde 500 ml, 493
+28.07, 5, 229, Capri, 494
+14.85, 5, 229, Yorkshire Dragon, 495
+13.70, 5, 230, Pomidorowa, 496
+37.55, 3, 231, Spicy Thai Basil Chicken, 497
+3.39, 4, 231, Piwo Tyskie 250ml, 498
+16.11, 3, 231, Wodka Mr Thadeo 100ml, 499
+40, 5, 232, Paleo Stuffed Cabbage, 500
+15.16, 4, 232, Yorkshire Dragon, 501
+3.81, 1, 233, Argus 500ml mojito , 502
+19.49, 2, 234, Barley water, 503
+10.95, 2, 234, Wodka Mr Thadeo 100ml, 504
+8.18, 5, 234, Kabanosiki, 505
+18.33, 4, 235, Squash, 506
+19.54, 2, 235, Capri, 507
+15, 4, 235, Wodka Mr Thadeo 100ml, 508
+7.84, 2, 236, Kabanosiki, 509
+8.37, 3, 236, Wodka Zubr 100ml, 510
+24.46, 3, 237, Back bacon with fired bread, 511
+21.64, 3, 238, Scrambled Eggs, 512
+7.04, 5, 239, Karpatka, 513
+18.51, 2, 239, Scrambled Eggs, 514
+30.53, 4, 240, Kielbasa with Brussels, 515
+6, 3, 240, Wodka Zubr 100ml, 516
+21.82, 1, 241, Scrambled Eggs, 517
+13.38, 5, 241, Wodka Mr Thadeo 100ml, 518
+15.44, 4, 241, Salatka grecka, 519
+11.53, 2, 242, Karpatka, 520
+50, 2, 243, Wino Fresco 700ml litra, 521
+18.33, 1, 244, Margharita, 522
+20.98, 4, 244, Capri, 523
+45.96, 1, 245, Spicy Thai Basil Chicken, 524
+79.20, 2, 245, Sandacz po szwedzku, 525
+30.43, 2, 246, Paleo Stuffed Cabbage, 526
+25.46, 4, 247, Scrambled Eggs, 527
+42.84, 1, 247, Apricot Mustard-Glazed Salmon, 528
+61.90, 5, 247, Wino Fresco 700ml litra, 529
+5.06, 4, 248, Capri 250ml, 530
+14.12, 2, 249, Pomidorowa, 531
+41.25, 1, 249, Dijon Pork with, 532
+45.83, 1, 250, Wino Fresco 700ml litra, 533
+4.22, 2, 250, Piwo Harde 500 ml, 534
+3.81, 1, 250, Piwo Tyskie 250ml, 535
+5.08, 5, 251, Capri 250ml, 536
+9, 3, 251, Karpatka, 537
+4.48, 4, 251, Piwo Tyskie 250ml, 538
+33.36, 4, 252, Prosciutto, 539
+51.57, 2, 252, Indian Chicken Curry, 540
+54.25, 4, 252, Indian Chicken Curry, 541
+50.10, 4, 253, Dijon Pork with, 542
+60.33, 3, 253, Wino Fresco 700ml litra, 543
+18.43, 2, 253, Back bacon with fired bread, 544
+6.21, 1, 254, Wodka Zubr 100ml, 545
+28.36, 3, 255, Kielbasa with Brussels, 546
+47.73, 1, 256, Spicy Thai Basil Chicken, 547
+40, 5, 256, Paleo Stuffed Cabbage, 548
+36.58, 4, 257, Paleo Stuffed Cabbage, 549
+18.2, 3, 257, Squash, 550
+3.24, 5, 257, Argus 500ml mojito , 551
+26.27, 2, 258, Capri, 552
+53.26, 5, 258, Wino Fresco 700ml litra, 553
+33.81, 4, 259, Barley water, 554
+14, 2, 260, Bubble and squeak, 555
+37.28, 2, 260, Indian Chicken Curry, 556
+15.49, 4, 261, Wodka Mr Thadeo 100ml, 557
+6.21, 1, 261, Kabanosiki, 558
+14.75, 4, 262, Bubble and squeak, 559
+7.41, 1, 262, Wodka Zubr 100ml, 560
+3.47, 4, 263, Piwo Harde 500 ml, 561
+56.57, 2, 263, Sandacz po szwedzku, 562
+6.47, 3, 264, Wodka Zubr 100ml, 563
+6.38, 1, 264, Capri 250ml, 564
+9.97, 3, 265, Karpatka, 565
+6.42, 2, 265, Capri 250ml, 566
+42.42, 2, 265, Wino Fresco 700ml litra, 567
+22.48, 4, 266, Back bacon with fired bread, 568
+24.76, 1, 267, Barley water, 569
+18.19, 1, 268, Salatka grecka, 570
+2.76, 4, 269, Piwo Harde 500 ml, 571
+32.9, 5, 269, Prosciutto, 572
+41.81, 5, 269, Wino Fresco 700ml litra, 573
+15.38, 5, 269, Scrambled Eggs, 574
+13.45, 5, 270, Bubble and squeak, 575
+17.32, 5, 270, Capri, 576
+16.96, 1, 271, Salatka grecka, 577
+33.48, 5, 271, Prosciutto, 578
+19.24, 4, 271, Barley water, 579
+18.47, 2, 272, Wodka Mr Thadeo 100ml, 580
+4.72, 5, 273, Piwo Tyskie 250ml, 581
+3.16, 1, 273, Piwo Harde 500 ml, 582
+38.20, 3, 274, Indian Chicken Curry, 583
+6.52, 2, 274, Capri 250ml, 584
+33.21, 2, 275, Paleo Stuffed Cabbage, 585
+27.29, 2, 275, Spicy Thai Basil Chicken, 586
+41.08, 2, 275, Apricot Mustard-Glazed Salmon, 587
+28.62, 3, 275, Barley water, 588
+27.74, 2, 276, Capri, 589
+8.02, 2, 276, Capri 250ml, 590
+15.36, 2, 276, Yorkshire Dragon, 591
+15.74, 4, 277, Bubble and squeak, 592
+21.37, 1, 277, Capri, 593
+34.56, 2, 277, Apricot Mustard-Glazed Salmon, 594
+2.54, 4, 278, Piwo Harde 500 ml, 595
+10.59, 2, 279, Salatka grecka, 596
+45, 4, 280, Dijon Pork with, 597
+20.05, 2, 281, Barley water, 598
+47.90, 5, 281, Indian Chicken Curry, 599
+22.88, 3, 282, Barley water, 600
+7.40, 4, 282, Capri 250ml, 601
+24.43, 4, 283, Barley water, 602
+10.11, 2, 284, Karpatka, 603
+39.61, 1, 284, Paleo Stuffed Cabbage, 604
+51.29, 1, 284, Paleo Stuffed Cabbage, 605
+65.65, 5, 285, Sandacz po szwedzku, 606
+33.77, 4, 285, Kielbasa with Brussels, 607
+33.80, 1, 285, Kielbasa with Brussels, 608
+8.31, 5, 286, Wodka Zubr 100ml, 609
+8.66, 5, 286, Kabanosiki, 610
+20.93, 2, 287, Capri, 611
+20, 3, 287, Scrambled Eggs, 612
+21.88, 3, 288, Capri, 613
+17.01, 1, 289, Wodka Mr Thadeo 100ml, 614
+17.15, 5, 290, Scrambled Eggs, 615
+53.51, 3, 290, Dijon Pork with, 616
+13.57, 4, 291, Margharita, 617
+16.41, 5, 291, Wodka Mr Thadeo 100ml, 618
+48.90, 1, 292, Wino Fresco 700ml litra, 619
+44.85, 4, 292, Wino Fresco 700ml litra, 620
+22.82, 1, 293, Barley water, 621
+15, 4, 293, Wodka Mr Thadeo 100ml, 622
+39.85, 2, 294, Prosciutto, 623
+2.39, 1, 294, Piwo Harde 500 ml, 624
+55.57, 4, 294, Dijon Pork with, 625
+20, 2, 295, Scrambled Eggs, 626
+6.88, 2, 295, Wodka Zubr 100ml, 627
+6.52, 2, 295, Wodka Zubr 100ml, 628
+42.57, 4, 296, Indian Chicken Curry, 629
+19.69, 2, 297, Salatka grecka, 630
+30.80, 4, 298, Indian Chicken Curry, 631
+39.55, 3, 298, Indian Chicken Curry, 632
+10.92, 1, 298, Wodka Mr Thadeo 100ml, 633
+9.95, 5, 298, Karpatka, 634
+3.92, 4, 299, Argus 500ml mojito , 635
+5.06, 3, 300, Piwo Tyskie 250ml, 636
+24.36, 4, 300, Squash, 637
+6.11, 3, 300, Wodka Zubr 100ml, 638
+13.54, 2, 301, Scrambled Eggs, 639
+7.73, 2, 302, Wodka Zubr 100ml, 640
+5.51, 2, 302, Capri 250ml, 641
+48.97, 3, 302, Wino Fresco 700ml litra, 642
+5.13, 2, 303, Argus 500ml mojito , 643
+56.14, 5, 303, Sandacz po szwedzku, 644
+33.88, 4, 304, Prosciutto, 645
+28.53, 3, 305, Spicy Thai Basil Chicken, 646
+10.25, 4, 305, Pomidorowa, 647
+12.65, 1, 306, Margharita, 648
+10.27, 1, 306, Bubble and squeak, 649
+14.50, 5, 306, Wodka Mr Thadeo 100ml, 650
+17.67, 4, 307, Margharita, 651
+12.23, 1, 307, Margharita, 652
+28.36, 1, 308, Squash, 653
+32.85, 2, 309, Kielbasa with Brussels, 654
+3.47, 2, 310, Argus 500ml mojito , 655
+5.24, 2, 310, Piwo Tyskie 250ml, 656
+42.48, 4, 311, Paleo Stuffed Cabbage, 657
+14.96, 1, 312, Bubble and squeak, 658
+18.91, 3, 312, Squash, 659
+34.90, 4, 312, Paleo Stuffed Cabbage, 660
+6.87, 1, 313, Capri 250ml, 661
+16.59, 1, 313, Margharita, 662
+43.17, 2, 314, Indian Chicken Curry, 663
+29.38, 2, 314, Barley water, 664
+39.80, 5, 315, Spicy Thai Basil Chicken, 665
+17.16, 4, 315, Yorkshire Dragon, 666
+37.83, 3, 316, Wino Fresco 700ml litra, 667
+5.56, 2, 316, Argus 500ml mojito , 668
+6.15, 5, 316, Kabanosiki, 669
+15.45, 5, 317, Yorkshire Dragon, 670
+16.63, 4, 318, Salatka grecka, 671
+26.79, 4, 318, Apricot Mustard-Glazed Salmon, 672
+45.11, 2, 318, Paleo Stuffed Cabbage, 673
+3.32, 4, 319, Piwo Harde 500 ml, 674
+45.71, 4, 319, Paleo Stuffed Cabbage, 675
+15.61, 2, 320, Wodka Mr Thadeo 100ml, 676
+2.69, 2, 320, Piwo Harde 500 ml, 677
+29.02, 3, 321, Spicy Thai Basil Chicken, 678
+17.23, 3, 321, Bubble and squeak, 679
+14.95, 3, 322, Bubble and squeak, 680
+20.40, 5, 323, Squash, 681
+15.56, 1, 323, Wodka Mr Thadeo 100ml, 682
+3.19, 3, 324, Piwo Harde 500 ml, 683
+47.31, 2, 324, Indian Chicken Curry, 684
+23.59, 5, 325, Squash, 685
+6.12, 4, 325, Capri 250ml, 686
+12.28, 5, 326, Pomidorowa, 687
+18.59, 2, 326, Wodka Mr Thadeo 100ml, 688
+12.5, 2, 326, Yorkshire Dragon, 689
+36.79, 5, 327, Paleo Stuffed Cabbage, 690
+3.53, 1, 327, Argus 500ml mojito , 691
+8, 4, 328, Kabanosiki, 692
+16.69, 2, 329, Bubble and squeak, 693
+8.35, 4, 329, Karpatka, 694
+6.28, 4, 329, Piwo Tyskie 250ml, 695
+15.42, 5, 330, Margharita, 696
+54.55, 1, 331, Wino Fresco 700ml litra, 697
+19.54, 4, 331, Back bacon with fired bread, 698
+6.48, 2, 331, Wodka Zubr 100ml, 699
+28.53, 2, 332, Spicy Thai Basil Chicken, 700
+11.31, 4, 332, Bubble and squeak, 701
+2.49, 4, 332, Piwo Harde 500 ml, 702
+25.98, 3, 333, Barley water, 703
+9.29, 5, 333, Bubble and squeak, 704
+5.34, 2, 333, Piwo Tyskie 250ml, 705
+25.78, 2, 333, Barley water, 706
+5.4, 3, 334, Capri 250ml, 707
+49.76, 1, 334, Dijon Pork with, 708
+16.15, 4, 335, Pomidorowa, 709
+35.58, 3, 335, Barley water, 710
+18.04, 4, 336, Capri, 711
+20.93, 2, 336, Scrambled Eggs, 712
+13.92, 2, 336, Yorkshire Dragon, 713
+18.98, 1, 337, Salatka grecka, 714
+14.70, 1, 337, Capri, 715
+24.19, 5, 338, Back bacon with fired bread, 716
+35.96, 3, 338, Indian Chicken Curry, 717
+12.96, 4, 338, Margharita, 718
+4.29, 4, 339, Piwo Tyskie 250ml, 719
+6.24, 1, 339, Wodka Zubr 100ml, 720
+42.17, 4, 340, Paleo Stuffed Cabbage, 721
+4.84, 1, 340, Piwo Tyskie 250ml, 722
+6.79, 1, 341, Karpatka, 723
+43.48, 5, 341, Kielbasa with Brussels, 724
+36.24, 5, 341, Kielbasa with Brussels, 725
+40.05, 1, 342, Prosciutto, 726
+24.02, 4, 342, Kielbasa with Brussels, 727
+32.45, 2, 342, Apricot Mustard-Glazed Salmon, 728
+58.27, 5, 343, Paleo Stuffed Cabbage, 729
+6.44, 5, 344, Piwo Tyskie 250ml, 730
+33.41, 4, 344, Spicy Thai Basil Chicken, 731
+17.14, 4, 345, Scrambled Eggs, 732
+59.63, 3, 345, Sandacz po szwedzku, 733
+39.04, 2, 346, Indian Chicken Curry, 734
+26.99, 3, 347, Kielbasa with Brussels, 735
+45.38, 3, 347, Wino Fresco 700ml litra, 736
+3.59, 1, 348, Argus 500ml mojito , 737
+33.14, 1, 348, Prosciutto, 738
+12.07, 2, 348, Pomidorowa, 739
+31.39, 3, 349, Kielbasa with Brussels, 740
+3.07, 4, 349, Argus 500ml mojito , 741
+3.07, 1, 349, Piwo Harde 500 ml, 742
+13.71, 2, 350, Salatka grecka, 743
+18.88, 2, 350, Yorkshire Dragon, 744
+3.17, 4, 350, Piwo Harde 500 ml, 745
+47.66, 4, 351, Wino Fresco 700ml litra, 746
+37.82, 2, 351, Paleo Stuffed Cabbage, 747
+64.95, 2, 351, Dijon Pork with, 748
+4.27, 3, 351, Capri 250ml, 749
+53.97, 2, 352, Sandacz po szwedzku, 750
+19.26, 2, 353, Wodka Mr Thadeo 100ml, 751
+14.39, 5, 353, Back bacon with fired bread, 752
+3.67, 4, 354, Argus 500ml mojito , 753
+6.76, 5, 355, Wodka Zubr 100ml, 754
+15.49, 1, 355, Bubble and squeak, 755
+12.33, 1, 355, Bubble and squeak, 756
+21.17, 1, 356, Squash, 757
+24.03, 2, 356, Capri, 758
+5.01, 4, 357, Argus 500ml mojito , 759
+20.08, 1, 357, Back bacon with fired bread, 760
+7.93, 4, 358, Kabanosiki, 761
+36.87, 5, 358, Indian Chicken Curry, 762
+58.05, 1, 359, Paleo Stuffed Cabbage, 763
+19.18, 4, 359, Capri, 764
+10.62, 4, 360, Margharita, 765
+23.20, 4, 360, Scrambled Eggs, 766
+43.68, 4, 361, Indian Chicken Curry, 767
+41.04, 1, 361, Wino Fresco 700ml litra, 768
+15.33, 4, 361, Wodka Mr Thadeo 100ml, 769
+47.67, 4, 362, Sandacz po szwedzku, 770
+8.48, 5, 362, Capri 250ml, 771
+5.75, 4, 363, Capri 250ml, 772
+18.40, 2, 363, Capri, 773
+17.19, 1, 363, Scrambled Eggs, 774
+9.52, 4, 364, Pomidorowa, 775
+7, 5, 364, Wodka Zubr 100ml, 776
+17.09, 3, 365, Squash, 777
+5.93, 4, 366, Wodka Zubr 100ml, 778
+40.13, 3, 367, Apricot Mustard-Glazed Salmon, 779
+3.07, 4, 368, Piwo Harde 500 ml, 780
+30.23, 1, 368, Prosciutto, 781
+20.13, 5, 369, Squash, 782
+3, 5, 369, Argus 500ml mojito , 783
+5.17, 3, 369, Piwo Tyskie 250ml, 784
+39.42, 4, 369, Wino Fresco 700ml litra, 785
+9.98, 3, 370, Kabanosiki, 786
+9.55, 1, 370, Karpatka, 787
+3.59, 3, 371, Argus 500ml mojito , 788
+15.41, 1, 371, Margharita, 789
+12.71, 5, 372, Wodka Mr Thadeo 100ml, 790
+18.62, 2, 372, Back bacon with fired bread, 791
+9.53, 5, 373, Wodka Zubr 100ml, 792
+35.67, 3, 374, Indian Chicken Curry, 793
+60.49, 1, 375, Wino Fresco 700ml litra, 794
+35, 1, 375, Spicy Thai Basil Chicken, 795
+20.35, 2, 376, Scrambled Eggs, 796
+14.35, 4, 376, Pomidorowa, 797
+2.88, 2, 377, Argus 500ml mojito , 798
+15.40, 1, 377, Bubble and squeak, 799
+14.82, 5, 378, Margharita, 800
+29.58, 5, 378, Indian Chicken Curry, 801
+24.44, 3, 378, Barley water, 802
+12.26, 2, 379, Karpatka, 803
+64.35, 4, 379, Sandacz po szwedzku, 804
+13.38, 1, 380, Bubble and squeak, 805
+8, 5, 380, Kabanosiki, 806
+9.86, 5, 381, Kabanosiki, 807
+56.47, 1, 381, Paleo Stuffed Cabbage, 808
+44.44, 1, 382, Paleo Stuffed Cabbage, 809
+5.83, 5, 382, Piwo Tyskie 250ml, 810
+18.07, 5, 382, Back bacon with fired bread, 811
+41.71, 5, 382, Apricot Mustard-Glazed Salmon, 812
+53.41, 2, 383, Dijon Pork with, 813
+9.39, 4, 384, Wodka Zubr 100ml, 814
+29.64, 3, 384, Capri, 815
+11.68, 5, 385, Pomidorowa, 816
+72.29, 4, 385, Wino Fresco 700ml litra, 817
+14.21, 5, 385, Bubble and squeak, 818
+3.93, 1, 385, Argus 500ml mojito , 819
+16.09, 1, 386, Scrambled Eggs, 820
+18.44, 4, 386, Squash, 821
+20.47, 2, 386, Scrambled Eggs, 822
+34.62, 4, 387, Spicy Thai Basil Chicken, 823
+26.14, 1, 388, Squash, 824
+21.01, 1, 388, Squash, 825
+5.25, 5, 389, Piwo Tyskie 250ml, 826
+19.93, 4, 389, Back bacon with fired bread, 827
+33.75, 2, 390, Paleo Stuffed Cabbage, 828
+35.60, 3, 390, Paleo Stuffed Cabbage, 829
+4.41, 4, 390, Argus 500ml mojito , 830
+13.85, 1, 391, Bubble and squeak, 831
+33.35, 1, 391, Spicy Thai Basil Chicken, 832
+44.78, 2, 392, Wino Fresco 700ml litra, 833
+23.78, 4, 393, Squash, 834
+15.25, 4, 394, Pomidorowa, 835
+74.45, 1, 394, Dijon Pork with, 836
+24.98, 2, 395, Capri, 837
+25.26, 4, 395, Barley water, 838
+5.61, 4, 395, Capri 250ml, 839
+28.81, 5, 395, Prosciutto, 840
+79.03, 3, 396, Sandacz po szwedzku, 841
+41.98, 3, 396, Paleo Stuffed Cabbage, 842
+46.40, 4, 396, Wino Fresco 700ml litra, 843
+19.26, 4, 397, Scrambled Eggs, 844
+9.22, 1, 397, Kabanosiki, 845
+33.57, 5, 398, Indian Chicken Curry, 846
+13.09, 4, 398, Margharita, 847
+34.68, 2, 398, Prosciutto, 848
+30.59, 3, 399, Prosciutto, 849
+43.42, 4, 400, Wino Fresco 700ml litra, 850
+16.09, 4, 400, Margharita, 851
+26.74, 1, 400, Capri, 852
+23.62, 2, 401, Spicy Thai Basil Chicken, 853
+29.97, 4, 402, Kielbasa with Brussels, 854
+17.68, 5, 402, Capri, 855
+44.61, 5, 403, Wino Fresco 700ml litra, 856
+12.61, 5, 403, Salatka grecka, 857
+29.40, 2, 404, Capri, 858
+10.42, 1, 404, Karpatka, 859
+5.31, 1, 404, Piwo Tyskie 250ml, 860
+60.23, 5, 404, Sandacz po szwedzku, 861
+12.89, 2, 405, Pomidorowa, 862
+4.87, 2, 405, Capri 250ml, 863
+10.92, 4, 406, Kabanosiki, 864
+18.32, 3, 406, Scrambled Eggs, 865
+43.29, 1, 407, Indian Chicken Curry, 866
+16.2, 3, 408, Margharita, 867
+6.12, 4, 408, Wodka Zubr 100ml, 868
+13.5, 1, 409, Yorkshire Dragon, 869
+4.99, 2, 409, Argus 500ml mojito , 870
+34.52, 4, 409, Kielbasa with Brussels, 871
+25.05, 5, 410, Squash, 872
+12.29, 4, 410, Bubble and squeak, 873
+12.82, 4, 411, Yorkshire Dragon, 874
+15.9, 1, 411, Scrambled Eggs, 875
+36.88, 1, 412, Prosciutto, 876
+38.99, 1, 412, Paleo Stuffed Cabbage, 877
+15.18, 4, 412, Margharita, 878
+7.92, 3, 413, Kabanosiki, 879
+26.88, 1, 413, Kielbasa with Brussels, 880
+51.5, 5, 413, Paleo Stuffed Cabbage, 881
+18.86, 4, 414, Capri, 882
+6.81, 5, 415, Kabanosiki, 883
+2.62, 1, 415, Piwo Harde 500 ml, 884
+6.91, 3, 416, Kabanosiki, 885
+18.38, 2, 416, Margharita, 886
+2.72, 5, 417, Argus 500ml mojito , 887
+27.89, 5, 417, Kielbasa with Brussels, 888
+15.53, 2, 418, Margharita, 889
+20.34, 5, 418, Margharita, 890
+12.29, 4, 418, Bubble and squeak, 891
+18.88, 4, 419, Scrambled Eggs, 892
+30.59, 4, 420, Spicy Thai Basil Chicken, 893
+16.22, 4, 420, Salatka grecka, 894
+56.99, 5, 420, Wino Fresco 700ml litra, 895
+21.21, 2, 420, Squash, 896
+2.72, 4, 421, Piwo Harde 500 ml, 897
+14.13, 5, 422, Yorkshire Dragon, 898
+31.21, 4, 423, Spicy Thai Basil Chicken, 899
+29.00, 2, 423, Apricot Mustard-Glazed Salmon, 900
+29.59, 3, 423, Prosciutto, 901
+4.11, 3, 424, Piwo Harde 500 ml, 902
+5.95, 2, 424, Kabanosiki, 903
+4.47, 4, 425, Piwo Tyskie 250ml, 904
+12.89, 4, 426, Bubble and squeak, 905
+39.16, 1, 426, Paleo Stuffed Cabbage, 906
+27.35, 1, 427, Barley water, 907
+20.73, 1, 428, Squash, 908
+3.08, 5, 429, Piwo Harde 500 ml, 909
+11.73, 4, 429, Margharita, 910
+4.03, 1, 430, Piwo Tyskie 250ml, 911
+72.5, 4, 430, Dijon Pork with, 912
+39.12, 1, 430, Indian Chicken Curry, 913
+13.59, 4, 430, Bubble and squeak, 914
+40.59, 4, 431, Prosciutto, 915
+47.53, 2, 431, Apricot Mustard-Glazed Salmon, 916
+15, 4, 432, Wodka Mr Thadeo 100ml, 917
+11.87, 2, 432, Bubble and squeak, 918
+58.35, 4, 433, Dijon Pork with, 919
+13.98, 2, 433, Scrambled Eggs, 920
+12.05, 1, 434, Pomidorowa, 921
+34.91, 2, 434, Paleo Stuffed Cabbage, 922
+8.99, 1, 434, Kabanosiki, 923
+11.50, 4, 435, Salatka grecka, 924
+35.91, 3, 436, Apricot Mustard-Glazed Salmon, 925
+16.98, 3, 436, Yorkshire Dragon, 926
+20.50, 2, 436, Back bacon with fired bread, 927
+28.08, 4, 437, Barley water, 928
+15, 1, 438, Margharita, 929
+15.18, 1, 438, Salatka grecka, 930
+11.64, 1, 438, Margharita, 931
+55.10, 1, 439, Wino Fresco 700ml litra, 932
+13.71, 4, 440, Wodka Mr Thadeo 100ml, 933
+15.71, 1, 440, Wodka Mr Thadeo 100ml, 934
+11.93, 1, 441, Pomidorowa, 935
+21.21, 2, 441, Scrambled Eggs, 936
+35, 5, 442, Spicy Thai Basil Chicken, 937
+36.11, 5, 442, Indian Chicken Curry, 938
+3.85, 5, 442, Argus 500ml mojito , 939
+4.43, 4, 443, Capri 250ml, 940
+52.73, 5, 443, Wino Fresco 700ml litra, 941
+16.83, 4, 444, Salatka grecka, 942
+17.68, 2, 444, Salatka grecka, 943
+14.20, 3, 445, Bubble and squeak, 944
+49.05, 2, 446, Paleo Stuffed Cabbage, 945
+16.9, 5, 446, Bubble and squeak, 946
+60.92, 5, 446, Wino Fresco 700ml litra, 947
+3.36, 4, 447, Argus 500ml mojito , 948
+6.32, 3, 447, Kabanosiki, 949
+11.25, 3, 447, Pomidorowa, 950
+39.27, 2, 447, Kielbasa with Brussels, 951
+40.39, 3, 448, Paleo Stuffed Cabbage, 952
+11.97, 1, 448, Margharita, 953
+35.30, 5, 449, Kielbasa with Brussels, 954
+25.82, 1, 449, Capri, 955
+22.15, 4, 449, Back bacon with fired bread, 956
+16.82, 2, 449, Yorkshire Dragon, 957
+16.51, 5, 450, Back bacon with fired bread, 958
+44.73, 5, 450, Indian Chicken Curry, 959
+48.65, 5, 451, Wino Fresco 700ml litra, 960
+52, 2, 452, Indian Chicken Curry, 961
+13.85, 1, 452, Yorkshire Dragon, 962
+20.75, 5, 453, Capri, 963
+69.53, 4, 453, Sandacz po szwedzku, 964
+23.32, 3, 453, Back bacon with fired bread, 965
+35.85, 4, 454, Apricot Mustard-Glazed Salmon, 966
+73.75, 3, 455, Wino Fresco 700ml litra, 967
+24.96, 1, 455, Barley water, 968
+33.37, 4, 456, Kielbasa with Brussels, 969
+24.68, 5, 456, Back bacon with fired bread, 970
+36.77, 4, 456, Paleo Stuffed Cabbage, 971
+3.76, 4, 457, Argus 500ml mojito , 972
+13.77, 2, 457, Bubble and squeak, 973
+4.90, 5, 458, Capri 250ml, 974
+17.60, 2, 459, Back bacon with fired bread, 975
+13.31, 3, 459, Scrambled Eggs, 976
+12.69, 4, 459, Yorkshire Dragon, 977
+57.99, 3, 460, Dijon Pork with, 978
+14.17, 5, 461, Salatka grecka, 979
+9.58, 5, 462, Kabanosiki, 980
+48.75, 3, 462, Sandacz po szwedzku, 981
+7.45, 4, 462, Karpatka, 982
+16.88, 1, 462, Scrambled Eggs, 983
+12.48, 5, 463, Yorkshire Dragon, 984
+27.27, 1, 464, Squash, 985
+17.90, 1, 464, Capri, 986
+15.12, 3, 464, Scrambled Eggs, 987
+38.57, 4, 465, Indian Chicken Curry, 988
+43.96, 1, 465, Apricot Mustard-Glazed Salmon, 989
+48.94, 2, 466, Dijon Pork with, 990
+62.20, 5, 466, Sandacz po szwedzku, 991
+32.25, 4, 467, Kielbasa with Brussels, 992
+4.51, 4, 467, Piwo Tyskie 250ml, 993
+27.90, 4, 468, Paleo Stuffed Cabbage, 994
+8.30, 4, 468, Capri 250ml, 995
+57.84, 2, 469, Wino Fresco 700ml litra, 996
+35.59, 3, 469, Paleo Stuffed Cabbage, 997
+6.91, 5, 470, Kabanosiki, 998
+27.04, 4, 470, Barley water, 999
+19.5, 1, 470, Margharita, 1000
+61.69, 4, 471, Sandacz po szwedzku, 1001
+6.2, 1, 471, Wodka Zubr 100ml, 1002
+22.03, 2, 472, Capri, 1003
+11.46, 1, 473, Yorkshire Dragon, 1004
+6.38, 2, 473, Capri 250ml, 1005
+19.97, 2, 474, Squash, 1006
+52.45, 5, 475, Wino Fresco 700ml litra, 1007
+24.69, 1, 475, Kielbasa with Brussels, 1008
+25.69, 4, 476, Prosciutto, 1009
+62.20, 5, 476, Sandacz po szwedzku, 1010
+73.83, 1, 477, Sandacz po szwedzku, 1011
+61.88, 2, 477, Sandacz po szwedzku, 1012
+2.71, 5, 478, Argus 500ml mojito , 1013
+8.29, 2, 478, Karpatka, 1014
+18.37, 5, 478, Salatka grecka, 1015
+10.7, 3, 478, Kabanosiki, 1016
+6.07, 2, 479, Capri 250ml, 1017
+31.12, 5, 479, Squash, 1018
+50.11, 2, 480, Indian Chicken Curry, 1019
+49.33, 1, 480, Indian Chicken Curry, 1020
+38.75, 1, 481, Indian Chicken Curry, 1021
+23.34, 2, 481, Scrambled Eggs, 1022
+32.88, 2, 481, Paleo Stuffed Cabbage, 1023
+4.05, 2, 481, Argus 500ml mojito , 1024
+12.15, 4, 482, Margharita, 1025
+32.14, 4, 482, Paleo Stuffed Cabbage, 1026
+24.35, 5, 482, Prosciutto, 1027
+28.43, 1, 483, Barley water, 1028
+5.46, 3, 484, Wodka Zubr 100ml, 1029
+14.12, 4, 484, Yorkshire Dragon, 1030
+45.07, 5, 484, Kielbasa with Brussels, 1031
+40.83, 5, 485, Prosciutto, 1032
+12.3, 1, 485, Margharita, 1033
+13.46, 4, 485, Yorkshire Dragon, 1034
+17.44, 2, 485, Bubble and squeak, 1035
+41.83, 4, 486, Spicy Thai Basil Chicken, 1036
+26.18, 2, 486, Barley water, 1037
+26.25, 5, 487, Back bacon with fired bread, 1038
+15.71, 1, 487, Margharita, 1039
+16.35, 1, 488, Squash, 1040
+4.87, 1, 488, Piwo Tyskie 250ml, 1041
+26.49, 5, 488, Prosciutto, 1042
+25.50, 3, 488, Barley water, 1043
+35.98, 3, 489, Prosciutto, 1044
+13.14, 1, 490, Margharita, 1045
+26.42, 2, 490, Prosciutto, 1046
+37.17, 3, 490, Kielbasa with Brussels, 1047
+73.80, 2, 491, Sandacz po szwedzku, 1048
+36.89, 1, 492, Spicy Thai Basil Chicken, 1049
+15.27, 1, 493, Wodka Mr Thadeo 100ml, 1050
+50.58, 2, 494, Apricot Mustard-Glazed Salmon, 1051
+42.86, 1, 494, Wino Fresco 700ml litra, 1052
+30.82, 5, 495, Spicy Thai Basil Chicken, 1053
+15.84, 4, 495, Bubble and squeak, 1054
+30.72, 2, 495, Barley water, 1055
+27.02, 3, 496, Prosciutto, 1056
+5.30, 1, 496, Piwo Tyskie 250ml, 1057
+77.53, 1, 497, Sandacz po szwedzku, 1058
+12.58, 5, 498, Wodka Mr Thadeo 100ml, 1059
+12.64, 3, 499, Salatka grecka, 1060
+2.43, 5, 499, Piwo Harde 500 ml, 1061
+10.4, 3, 500, Bubble and squeak, 1062
+9.03, 5, 500, Pomidorowa, 1063
+10.56, 5, 501, Kabanosiki, 1064
+35.24, 5, 501, Paleo Stuffed Cabbage, 1065
+61.95, 3, 501, Indian Chicken Curry, 1066
+21.70, 5, 502, Gorace udka kurczaka, 1067
+8.24, 5, 502, Karpatka, 1068
+24.80, 5, 502, Gorace udka kurczaka, 1069
+14.52, 1, 502, Karpatka, 1070
+15.07, 5, 503, Pomidorowa, 1071
+50.26, 5, 504, Wino Fresco 700ml litra, 1072
+14.26, 1, 504, Squash, 1073
+5.33, 4, 505, Piwo Tyskie 250ml, 1074
+96.69, 1, 506, Sandacz po szwedzku, 1075
+14.43, 3, 506, Obiadek u babci, 1076
+6.26, 5, 506, Bubble and squeak, 1077
+37.46, 2, 507, Prosciutto, 1078
+3.90, 1, 507, Piwo Harde 500 ml, 1079
+19.20, 4, 507, Pomidorowa, 1080
+61.84, 4, 508, Sandacz po szwedzku, 1081
+9.83, 1, 509, Bubble and squeak, 1082
+29.90, 4, 509, Scrambled Eggs, 1083
+46.07, 3, 510, Prosciutto, 1084
+10.29, 3, 511, Bubble and squeak, 1085
+23.35, 5, 511, Scrambled Eggs, 1086
+35.49, 1, 512, Prosciutto, 1087
+16.76, 3, 512, Wodka Mr Thadeo 100ml, 1088
+66.27, 3, 513, Sandacz po szwedzku, 1089
+8.44, 4, 513, Bubble and squeak, 1090
+5.37, 5, 513, Capri 250ml, 1091
+20.49, 4, 514, Squash, 1092
+14.03, 5, 514, Yorkshire Dragon, 1093
+69.69, 3, 515, Sandacz po szwedzku, 1094
+19.61, 4, 515, Scrambled Eggs, 1095
+35.27, 5, 515, Spaghetti alla Bollognese, 1096
+30.89, 3, 515, Prosciutto, 1097
+22.10, 2, 516, Pomidorowa, 1098
+3.21, 4, 517, Piwo Harde 500 ml, 1099
+8.76, 3, 517, Margharita, 1100
+71.27, 4, 518, Dijon Pork with, 1101
+11.37, 2, 519, Salatka grecka, 1102
+25.96, 4, 519, Obiadek u babci, 1103
+55.88, 2, 520, Dijon Pork with, 1104
+30.80, 4, 520, Gorace udka kurczaka, 1105
+74.98, 2, 521, Wino Fresco 700ml litra, 1106
+52.51, 2, 521, Wino Fresco 700ml litra, 1107
+5.36, 1, 522, Capri 250ml, 1108
+38.08, 1, 522, Spaghetti alla Bollognese, 1109
+4.70, 4, 522, Capri 250ml, 1110
+34.47, 5, 523, Prosciutto, 1111
+12.09, 2, 523, Margharita, 1112
+35.83, 1, 523, Prosciutto, 1113
+36.54, 2, 524, Paleo Stuffed Cabbage, 1114
+25.76, 3, 524, Gorace udka kurczaka, 1115
+30.67, 1, 524, Prosciutto, 1116
+39.22, 4, 525, Paleo Stuffed Cabbage, 1117
+23.11, 5, 525, Capri, 1118
+12.01, 1, 525, Wodka Mr Thadeo 100ml, 1119
+54.48, 1, 526, Dijon Pork with, 1120
+31.34, 5, 526, Apricot Mustard-Glazed Salmon, 1121
+29.77, 1, 526, Spicy Thai Basil Chicken, 1122
+4.94, 2, 527, Piwo Tyskie 250ml, 1123
+10.25, 3, 527, Margharita, 1124
+12.46, 5, 528, Salatka grecka, 1125
+13.86, 1, 528, Salatka grecka, 1126
+36.06, 4, 528, Spicy Thai Basil Chicken, 1127
+53.98, 4, 529, Spaghetti alla Bollognese, 1128
+12.69, 4, 529, Salatka grecka, 1129
+53.80, 4, 530, Spaghetti alla Bollognese, 1130
+29.05, 3, 530, Gorace udka kurczaka, 1131
+10.17, 4, 531, Kabanosiki, 1132
+3.83, 4, 531, Piwo Harde 500 ml, 1133
+17.54, 4, 531, Wodka Mr Thadeo 100ml, 1134
+7.45, 2, 532, Kabanosiki, 1135
+23.76, 4, 532, Capri, 1136
+32.87, 4, 533, Spicy Thai Basil Chicken, 1137
+17.15, 5, 533, Scrambled Eggs, 1138
+14.97, 1, 534, Back bacon with fired bread, 1139
+25.77, 4, 534, Barley water, 1140
+7.23, 3, 534, Capri 250ml, 1141
+5.33, 1, 535, Capri 250ml, 1142
+85.30, 4, 535, Sandacz po szwedzku, 1143
+18.68, 4, 536, Obiadek u babci, 1144
+3.55, 2, 536, Piwo Harde 500 ml, 1145
+11.18, 3, 537, Margharita, 1146
+22.87, 2, 537, Gorace udka kurczaka, 1147
+9.34, 5, 537, Margharita, 1148
+15.14, 5, 537, Obiadek u babci, 1149
+44.65, 4, 538, Apricot Mustard-Glazed Salmon, 1150
+21.70, 4, 538, Gorace udka kurczaka, 1151
+33.94, 3, 539, Gorace udka kurczaka, 1152
+18.91, 4, 539, Barley water, 1153
+14.73, 1, 540, Back bacon with fired bread, 1154
+3.55, 2, 540, Piwo Harde 500 ml, 1155
+55.22, 4, 540, Spaghetti alla Bollognese, 1156
+17.92, 4, 541, Barley water, 1157
+28.86, 1, 541, Apricot Mustard-Glazed Salmon, 1158
+4.35, 2, 541, Argus 500ml mojito , 1159
+14.66, 1, 542, Salatka grecka, 1160
+26.99, 4, 543, Squash, 1161
+10.50, 5, 544, Kabanosiki, 1162
+23.23, 3, 544, Squash, 1163
+25.25, 5, 545, Gorace udka kurczaka, 1164
+11.40, 4, 545, Yorkshire Dragon, 1165
+34.74, 1, 546, Apricot Mustard-Glazed Salmon, 1166
+18.83, 3, 546, Pomidorowa, 1167
+3.78, 5, 547, Piwo Harde 500 ml, 1168
+45.99, 1, 547, Kielbasa with Brussels, 1169
+27.80, 3, 547, Capri, 1170
+15.82, 3, 548, Salatka grecka, 1171
+10.37, 4, 548, Margharita, 1172
+23.70, 4, 548, Squash, 1173
+30.59, 5, 548, Back bacon with fired bread, 1174
+35.83, 2, 549, Wino Fresco 700ml litra, 1175
+15.10, 4, 549, Pomidorowa, 1176
+20.41, 3, 550, Barley water, 1177
+12.16, 4, 550, Karpatka, 1178
+38.65, 2, 551, Kielbasa with Brussels, 1179
+13.25, 3, 551, Margharita, 1180
+23.87, 1, 551, Scrambled Eggs, 1181
+15.37, 1, 552, Wodka Mr Thadeo 100ml, 1182
+6.85, 4, 553, Wodka Zubr 100ml, 1183
+5.21, 4, 553, Capri 250ml, 1184
+4.31, 3, 553, Argus 500ml mojito , 1185
+46.45, 4, 554, Wino Fresco 700ml litra, 1186
+12.14, 2, 554, Yorkshire Dragon, 1187
+31.21, 4, 554, Gorace udka kurczaka, 1188
+8.60, 1, 554, Karpatka, 1189
+39.04, 3, 555, Spaghetti alla Bollognese, 1190
+41.45, 4, 556, Prosciutto, 1191
+45.99, 1, 557, Kielbasa with Brussels, 1192
+53.53, 1, 557, Dijon Pork with, 1193
+4.98, 4, 558, Piwo Harde 500 ml, 1194
+12.14, 1, 558, Wodka Mr Thadeo 100ml, 1195
+24.40, 4, 559, Gorace udka kurczaka, 1196
+27.45, 2, 560, Obiadek u babci, 1197
+18.47, 2, 560, Obiadek u babci, 1198
+3.85, 1, 560, Argus 500ml mojito , 1199
+4.05, 4, 561, Piwo Tyskie 250ml, 1200
+10.56, 4, 561, Bubble and squeak, 1201
+24.12, 5, 561, Gorace udka kurczaka, 1202
+16.18, 3, 562, Scrambled Eggs, 1203
+17.37, 4, 563, Squash, 1204
+11.79, 1, 563, Yorkshire Dragon, 1205
+10.57, 3, 564, Wodka Zubr 100ml, 1206
+4.87, 5, 564, Capri 250ml, 1207
+27.22, 1, 564, Squash, 1208
+11.22, 3, 564, Salatka grecka, 1209
+34.21, 5, 565, Kielbasa with Brussels, 1210
+49.73, 4, 566, Sandacz po szwedzku, 1211
+37.16, 1, 566, Prosciutto, 1212
+36.86, 1, 566, Paleo Stuffed Cabbage, 1213
+3.85, 3, 567, Piwo Harde 500 ml, 1214
+27.00, 3, 567, Barley water, 1215
+12.90, 3, 567, Wodka Mr Thadeo 100ml, 1216
+22.61, 1, 567, Gorace udka kurczaka, 1217
+13.56, 4, 568, Pomidorowa, 1218
+21.79, 2, 568, Pomidorowa, 1219
+21.92, 3, 568, Gorace udka kurczaka, 1220
+13.14, 2, 569, Wodka Mr Thadeo 100ml, 1221
+36.66, 1, 569, Indian Chicken Curry, 1222
+19.93, 3, 569, Capri, 1223
+8.07, 4, 570, Wodka Zubr 100ml, 1224
+8.14, 2, 571, Kabanosiki, 1225
+24.30, 5, 571, Back bacon with fired bread, 1226
+11.33, 4, 572, Yorkshire Dragon, 1227
+16.79, 4, 572, Scrambled Eggs, 1228
+13.55, 1, 572, Margharita, 1229
+3.22, 5, 573, Piwo Harde 500 ml, 1230
+40.07, 4, 574, Apricot Mustard-Glazed Salmon, 1231
+22.32, 2, 574, Gorace udka kurczaka, 1232
+3.72, 3, 574, Argus 500ml mojito , 1233
+10.68, 3, 575, Kabanosiki, 1234
+45.53, 5, 575, Prosciutto, 1235
+3.52, 4, 575, Piwo Harde 500 ml, 1236
+7.95, 5, 576, Wodka Zubr 100ml, 1237
+15.66, 3, 577, Yorkshire Dragon, 1238
+50.06, 4, 577, Apricot Mustard-Glazed Salmon, 1239
+5.26, 1, 577, Argus 500ml mojito , 1240
+9.69, 4, 578, Karpatka, 1241
+17.96, 2, 578, Pomidorowa, 1242
+10.23, 5, 578, Bubble and squeak, 1243
+38.01, 2, 579, Kielbasa with Brussels, 1244
+27.31, 3, 579, Capri, 1245
+5.42, 1, 579, Piwo Tyskie 250ml, 1246
+6.01, 5, 579, Piwo Tyskie 250ml, 1247
+10.96, 5, 580, Bubble and squeak, 1248
+15.42, 3, 581, Pomidorowa, 1249
+3.60, 2, 581, Capri 250ml, 1250
+13.62, 4, 582, Wodka Mr Thadeo 100ml, 1251
+18.48, 4, 582, Barley water, 1252
+4.50, 4, 582, Piwo Tyskie 250ml, 1253
+14.13, 2, 583, Salatka grecka, 1254
+23.29, 4, 583, Gorace udka kurczaka, 1255
+27.26, 5, 584, Prosciutto, 1256
+9.18, 5, 584, Bubble and squeak, 1257
+48.98, 4, 585, Indian Chicken Curry, 1258
+15.61, 2, 585, Margharita, 1259
+33.09, 2, 585, Spaghetti alla Bollognese, 1260
+16.76, 3, 585, Wodka Mr Thadeo 100ml, 1261
+5.09, 1, 586, Piwo Tyskie 250ml, 1262
+2.79, 3, 586, Piwo Harde 500 ml, 1263
+62.82, 2, 586, Sandacz po szwedzku, 1264
+9.32, 5, 586, Wodka Zubr 100ml, 1265
+18.47, 4, 587, Obiadek u babci, 1266
+50.11, 4, 588, Dijon Pork with, 1267
+53.68, 3, 588, Wino Fresco 700ml litra, 1268
+27.87, 2, 588, Barley water, 1269
+40.83, 1, 588, Spaghetti alla Bollognese, 1270
+32.78, 1, 589, Apricot Mustard-Glazed Salmon, 1271
+15.75, 3, 589, Scrambled Eggs, 1272
+3.55, 2, 590, Piwo Harde 500 ml, 1273
+49.17, 5, 590, Spaghetti alla Bollognese, 1274
+73.30, 2, 591, Sandacz po szwedzku, 1275
+7.85, 2, 592, Wodka Zubr 100ml, 1276
+18.17, 1, 592, Salatka grecka, 1277
+34.62, 1, 592, Apricot Mustard-Glazed Salmon, 1278
+17.70, 4, 592, Barley water, 1279
+15.26, 1, 593, Yorkshire Dragon, 1280
+9.39, 4, 593, Wodka Zubr 100ml, 1281
+3.95, 2, 594, Argus 500ml mojito , 1282
+8.98, 2, 595, Bubble and squeak, 1283
+27.90, 4, 595, Spicy Thai Basil Chicken, 1284
+4.15, 3, 596, Piwo Tyskie 250ml, 1285
+22.01, 3, 596, Obiadek u babci, 1286
+6.73, 4, 597, Capri 250ml, 1287
+37.30, 2, 597, Apricot Mustard-Glazed Salmon, 1288
+16.06, 1, 597, Squash, 1289
+37.52, 5, 598, Paleo Stuffed Cabbage, 1290
+23.74, 4, 598, Back bacon with fired bread, 1291
+13.16, 1, 599, Salatka grecka, 1292
+8.77, 1, 599, Kabanosiki, 1293
+29.15, 4, 599, Back bacon with fired bread, 1294
+47.78, 4, 600, Spicy Thai Basil Chicken, 1295
+14.38, 4, 601, Karpatka, 1296
+13.86, 4, 601, Salatka grecka, 1297
+67.16, 4, 602, Dijon Pork with, 1298
+15.60, 5, 602, Yorkshire Dragon, 1299
+34.41, 4, 603, Spicy Thai Basil Chicken, 1300
+10.81, 5, 603, Margharita, 1301
+11.81, 2, 603, Wodka Mr Thadeo 100ml, 1302
+48.16, 2, 604, Dijon Pork with, 1303
+10.38, 2, 604, Margharita, 1304
+15.94, 4, 604, Margharita, 1305
+7.77, 1, 605, Karpatka, 1306
+4.06, 5, 605, Piwo Tyskie 250ml, 1307
+17.98, 3, 605, Capri, 1308
+36.51, 4, 606, Indian Chicken Curry, 1309
+36.74, 2, 606, Kielbasa with Brussels, 1310
+39.07, 1, 606, Paleo Stuffed Cabbage, 1311
+7.03, 1, 607, Kabanosiki, 1312
+17.86, 1, 607, Yorkshire Dragon, 1313
+3.60, 3, 608, Piwo Harde 500 ml, 1314
+44.99, 5, 608, Kielbasa with Brussels, 1315
+2.91, 5, 608, Argus 500ml mojito , 1316
+57.70, 3, 609, Wino Fresco 700ml litra, 1317
+14.24, 4, 609, Yorkshire Dragon, 1318
+11.34, 5, 610, Karpatka, 1319
+11.64, 2, 611, Kabanosiki, 1320
+9.82, 1, 611, Kabanosiki, 1321
+32.78, 5, 611, Apricot Mustard-Glazed Salmon, 1322
+16.91, 1, 612, Squash, 1323
+8.66, 1, 612, Karpatka, 1324
+37.69, 1, 613, Paleo Stuffed Cabbage, 1325
+54.25, 5, 613, Sandacz po szwedzku, 1326
+15.76, 5, 613, Wodka Mr Thadeo 100ml, 1327
+2.52, 1, 614, Piwo Harde 500 ml, 1328
+3.40, 4, 614, Argus 500ml mojito , 1329
+3.23, 5, 614, Argus 500ml mojito , 1330
+17.67, 5, 615, Pomidorowa, 1331
+10.39, 2, 616, Salatka grecka, 1332
+30.76, 1, 616, Prosciutto, 1333
+3.24, 2, 616, Argus 500ml mojito , 1334
+71.28, 4, 617, Sandacz po szwedzku, 1335
+24.88, 1, 618, Squash, 1336
+8.44, 4, 618, Wodka Zubr 100ml, 1337
+29.90, 4, 619, Paleo Stuffed Cabbage, 1338
+10.50, 3, 620, Karpatka, 1339
+92.87, 2, 620, Dijon Pork with, 1340
+5.10, 1, 621, Piwo Harde 500 ml, 1341
+21.61, 2, 622, Squash, 1342
+5.40, 4, 622, Capri 250ml, 1343
+34.61, 4, 622, Spaghetti alla Bollognese, 1344
+14.76, 1, 623, Obiadek u babci, 1345
+4.76, 4, 623, Piwo Tyskie 250ml, 1346
+33.19, 5, 623, Prosciutto, 1347
+14.65, 5, 624, Karpatka, 1348
+11.79, 2, 624, Karpatka, 1349
+14.46, 4, 625, Obiadek u babci, 1350
+41.90, 2, 625, Spicy Thai Basil Chicken, 1351
+23.80, 3, 626, Back bacon with fired bread, 1352
+20.26, 1, 627, Obiadek u babci, 1353
+22.79, 2, 628, Scrambled Eggs, 1354
+14.01, 1, 629, Salatka grecka, 1355
+8.85, 4, 629, Wodka Zubr 100ml, 1356
+34.33, 4, 629, Prosciutto, 1357
+29.76, 4, 630, Paleo Stuffed Cabbage, 1358
+64.97, 1, 631, Indian Chicken Curry, 1359
+27.41, 5, 631, Barley water, 1360
+3.40, 5, 631, Piwo Harde 500 ml, 1361
+22.36, 4, 632, Squash, 1362
+5.57, 3, 633, Capri 250ml, 1363
+85.66, 2, 633, Sandacz po szwedzku, 1364
+10.40, 3, 633, Margharita, 1365
+30.53, 4, 634, Gorace udka kurczaka, 1366
+50.80, 3, 634, Spicy Thai Basil Chicken, 1367
+23.36, 4, 635, Obiadek u babci, 1368
+39.18, 3, 635, Spaghetti alla Bollognese, 1369
+10.35, 5, 635, Kabanosiki, 1370
+23.85, 2, 636, Barley water, 1371
+8.26, 2, 637, Karpatka, 1372
+11.83, 5, 637, Karpatka, 1373
+7.56, 4, 638, Capri 250ml, 1374
+3.84, 2, 639, Piwo Tyskie 250ml, 1375
+27.91, 1, 639, Prosciutto, 1376
+10.20, 3, 639, Kabanosiki, 1377
+8.99, 1, 640, Bubble and squeak, 1378
+20.70, 4, 641, Obiadek u babci, 1379
+19.17, 4, 641, Obiadek u babci, 1380
+38.93, 2, 641, Paleo Stuffed Cabbage, 1381
+66.65, 1, 642, Dijon Pork with, 1382
+8.62, 2, 643, Bubble and squeak, 1383
+35.83, 1, 644, Prosciutto, 1384
+9.46, 5, 644, Wodka Zubr 100ml, 1385
+13.35, 1, 644, Pomidorowa, 1386
+30.28, 1, 645, Spaghetti alla Bollognese, 1387
+14.11, 3, 645, Pomidorowa, 1388
+13.63, 5, 646, Wodka Mr Thadeo 100ml, 1389
+47.14, 3, 647, Wino Fresco 700ml litra, 1390
+19.67, 3, 647, Pomidorowa, 1391
+10.96, 5, 648, Karpatka, 1392
+20.02, 5, 648, Scrambled Eggs, 1393
+19.08, 5, 648, Yorkshire Dragon, 1394
+44.77, 5, 649, Kielbasa with Brussels, 1395
+80.82, 1, 650, Dijon Pork with, 1396
+30.21, 4, 650, Apricot Mustard-Glazed Salmon, 1397
+55.62, 5, 651, Sandacz po szwedzku, 1398
+43.64, 1, 651, Indian Chicken Curry, 1399
+35.84, 3, 651, Paleo Stuffed Cabbage, 1400
+18.57, 3, 652, Gorace udka kurczaka, 1401
+48.65, 3, 652, Spaghetti alla Bollognese, 1402
+15.01, 5, 652, Obiadek u babci, 1403
+26.82, 4, 652, Back bacon with fired bread, 1404
+37.70, 2, 653, Indian Chicken Curry, 1405
+3.91, 2, 654, Piwo Tyskie 250ml, 1406
+12.03, 1, 654, Salatka grecka, 1407
+15.27, 4, 654, Salatka grecka, 1408
+19.23, 1, 654, Back bacon with fired bread, 1409
+34.92, 2, 655, Paleo Stuffed Cabbage, 1410
+29.26, 3, 655, Spicy Thai Basil Chicken, 1411
+37.68, 1, 655, Paleo Stuffed Cabbage, 1412
+45.01, 1, 656, Prosciutto, 1413
+98.33, 3, 656, Sandacz po szwedzku, 1414
+13.00, 3, 656, Yorkshire Dragon, 1415
+20.13, 5, 656, Gorace udka kurczaka, 1416
+14.61, 4, 657, Pomidorowa, 1417
+22.21, 1, 657, Gorace udka kurczaka, 1418
+22.00, 1, 657, Gorace udka kurczaka, 1419
+3.93, 1, 657, Piwo Harde 500 ml, 1420
+49.09, 1, 658, Spaghetti alla Bollognese, 1421
+17.17, 2, 658, Obiadek u babci, 1422
+8.37, 3, 658, Kabanosiki, 1423
+22.44, 4, 659, Scrambled Eggs, 1424
+17.01, 5, 659, Pomidorowa, 1425
+49.67, 3, 659, Kielbasa with Brussels, 1426
+49.44, 4, 660, Spicy Thai Basil Chicken, 1427
+10.21, 5, 661, Karpatka, 1428
+14.50, 2, 661, Wodka Mr Thadeo 100ml, 1429
+44.99, 1, 662, Spicy Thai Basil Chicken, 1430
+6.44, 3, 662, Wodka Zubr 100ml, 1431
+3.77, 2, 663, Piwo Harde 500 ml, 1432
+9.39, 4, 663, Kabanosiki, 1433
+3.78, 1, 663, Argus 500ml mojito , 1434
+4.63, 5, 663, Argus 500ml mojito , 1435
+6.71, 5, 664, Wodka Zubr 100ml, 1436
+4.74, 5, 664, Piwo Harde 500 ml, 1437
+27.86, 1, 664, Spicy Thai Basil Chicken, 1438
+74.16, 4, 665, Sandacz po szwedzku, 1439
+61.07, 1, 666, Sandacz po szwedzku, 1440
+29.28, 2, 667, Barley water, 1441
+19.39, 1, 667, Scrambled Eggs, 1442
+7.93, 2, 667, Bubble and squeak, 1443
+6.61, 2, 668, Wodka Zubr 100ml, 1444
+12.50, 4, 668, Pomidorowa, 1445
+27.01, 3, 669, Capri, 1446
+9.09, 4, 669, Margharita, 1447
+23.13, 4, 670, Capri, 1448
+16.09, 4, 670, Capri, 1449
+23.39, 2, 670, Gorace udka kurczaka, 1450
+63.81, 4, 671, Wino Fresco 700ml litra, 1451
+18.21, 4, 671, Scrambled Eggs, 1452
+35.41, 4, 671, Apricot Mustard-Glazed Salmon, 1453
+34.29, 2, 672, Prosciutto, 1454
+3.80, 5, 672, Argus 500ml mojito , 1455
+16.30, 1, 672, Wodka Mr Thadeo 100ml, 1456
+52.32, 2, 673, Dijon Pork with, 1457
+7.75, 2, 673, Bubble and squeak, 1458
+10.68, 5, 673, Kabanosiki, 1459
+10.33, 3, 674, Wodka Zubr 100ml, 1460
+10.93, 4, 674, Kabanosiki, 1461
+56.22, 3, 674, Dijon Pork with, 1462
+11.48, 3, 675, Karpatka, 1463
+32.49, 5, 675, Kielbasa with Brussels, 1464
+4.70, 2, 675, Piwo Tyskie 250ml, 1465
+34.71, 1, 675, Prosciutto, 1466
+14.83, 2, 676, Karpatka, 1467
+30.54, 4, 676, Spicy Thai Basil Chicken, 1468
+26.47, 3, 677, Squash, 1469
+35.27, 4, 677, Paleo Stuffed Cabbage, 1470
+40.29, 1, 677, Paleo Stuffed Cabbage, 1471
+25.41, 1, 677, Obiadek u babci, 1472
+3.67, 5, 678, Piwo Harde 500 ml, 1473
+15.20, 2, 679, Yorkshire Dragon, 1474
+2.96, 2, 679, Piwo Harde 500 ml, 1475
+8.52, 1, 679, Wodka Zubr 100ml, 1476
+16.18, 1, 680, Wodka Mr Thadeo 100ml, 1477
+19.88, 4, 680, Barley water, 1478
+6.41, 5, 680, Capri 250ml, 1479
+18.88, 4, 681, Pomidorowa, 1480
+9.54, 4, 681, Kabanosiki, 1481
+25.61, 2, 681, Barley water, 1482
+9.16, 4, 682, Bubble and squeak, 1483
+11.65, 4, 682, Margharita, 1484
+14.07, 3, 682, Wodka Mr Thadeo 100ml, 1485
+15.88, 1, 682, Capri, 1486
+9.78, 3, 683, Kabanosiki, 1487
+13.86, 1, 683, Salatka grecka, 1488
+17.32, 3, 684, Scrambled Eggs, 1489
+9.96, 3, 684, Karpatka, 1490
+37.86, 2, 685, Prosciutto, 1491
+3.17, 1, 685, Piwo Tyskie 250ml, 1492
+9.64, 1, 685, Bubble and squeak, 1493
+9.29, 3, 686, Margharita, 1494
+58.45, 4, 686, Sandacz po szwedzku, 1495
+3.99, 4, 686, Piwo Harde 500 ml, 1496
+25.99, 4, 686, Barley water, 1497
+23.28, 3, 687, Gorace udka kurczaka, 1498
+40.68, 5, 687, Wino Fresco 700ml litra, 1499
+3.65, 4, 688, Piwo Harde 500 ml, 1500
+56.14, 1, 688, Wino Fresco 700ml litra, 1501
+21.78, 4, 689, Squash, 1502
+17.57, 1, 689, Barley water, 1503
+27.26, 5, 689, Prosciutto, 1504
+52.57, 5, 689, Paleo Stuffed Cabbage, 1505
+15.69, 3, 690, Salatka grecka, 1506
+9.99, 4, 690, Kabanosiki, 1507
+19.50, 1, 690, Obiadek u babci, 1508
+38.17, 2, 691, Spicy Thai Basil Chicken, 1509
+22.34, 4, 691, Capri, 1510
+9.56, 5, 692, Bubble and squeak, 1511
+67.68, 2, 692, Dijon Pork with, 1512
+35.27, 4, 693, Paleo Stuffed Cabbage, 1513
+5.03, 1, 694, Capri 250ml, 1514
+22.57, 3, 695, Barley water, 1515
+59.80, 2, 695, Sandacz po szwedzku, 1516
+16.39, 3, 696, Yorkshire Dragon, 1517
+47.40, 4, 696, Kielbasa with Brussels, 1518
+3.48, 2, 697, Piwo Harde 500 ml, 1519
+38.71, 5, 697, Spaghetti alla Bollognese, 1520
+33.11, 1, 698, Apricot Mustard-Glazed Salmon, 1521
+32.03, 2, 698, Apricot Mustard-Glazed Salmon, 1522
+3.61, 1, 699, Argus 500ml mojito , 1523
+25.42, 4, 700, Gorace udka kurczaka, 1524
+13.80, 4, 700, Pomidorowa, 1525
+10.62, 3, 700, Margharita, 1526
+17.76, 2, 701, Pomidorowa, 1527
+24.70, 5, 701, Scrambled Eggs, 1528
+74.29, 3, 702, Dijon Pork with, 1529
+48.74, 5, 702, Kielbasa with Brussels, 1530
+89.02, 5, 702, Sandacz po szwedzku, 1531
+5.54, 4, 703, Capri 250ml, 1532
+17.20, 5, 703, Pomidorowa, 1533
+12.28, 5, 703, Kabanosiki, 1534
+30.07, 5, 704, Paleo Stuffed Cabbage, 1535
+16.12, 5, 704, Squash, 1536
+24.78, 2, 705, Prosciutto, 1537
+3.81, 5, 705, Piwo Tyskie 250ml, 1538
+34.70, 1, 706, Kielbasa with Brussels, 1539
+50.68, 4, 706, Dijon Pork with, 1540
+8.20, 4, 707, Bubble and squeak, 1541
+39.70, 3, 707, Kielbasa with Brussels, 1542
+5.44, 5, 708, Capri 250ml, 1543
+17.24, 3, 708, Barley water, 1544
+10.87, 3, 709, Margharita, 1545
+27.52, 2, 710, Gorace udka kurczaka, 1546
+17.67, 1, 710, Obiadek u babci, 1547
+23.86, 5, 711, Capri, 1548
+71.58, 5, 712, Dijon Pork with, 1549
+16.86, 3, 712, Capri, 1550
+9.74, 1, 712, Margharita, 1551
+67.34, 5, 713, Sandacz po szwedzku, 1552
+25.19, 5, 714, Gorace udka kurczaka, 1553
+39.76, 5, 714, Indian Chicken Curry, 1554
+51.63, 2, 715, Dijon Pork with, 1555
+42.86, 4, 715, Wino Fresco 700ml litra, 1556
+19.12, 3, 715, Capri, 1557
+52.60, 4, 716, Wino Fresco 700ml litra, 1558
+9.08, 3, 717, Bubble and squeak, 1559
+8.52, 1, 718, Karpatka, 1560
+26.93, 3, 718, Obiadek u babci, 1561
+10.02, 4, 719, Karpatka, 1562
+43.11, 3, 720, Indian Chicken Curry, 1563
+12.06, 4, 721, Wodka Mr Thadeo 100ml, 1564
+12.35, 3, 722, Salatka grecka, 1565
+35.35, 2, 722, Spicy Thai Basil Chicken, 1566
+5.27, 3, 722, Capri 250ml, 1567
+10.39, 1, 723, Karpatka, 1568
+10.15, 3, 723, Kabanosiki, 1569
+34.82, 1, 723, Indian Chicken Curry, 1570
+21.57, 5, 724, Pomidorowa, 1571
+39.89, 5, 724, Spaghetti alla Bollognese, 1572
+7.75, 4, 725, Karpatka, 1573
+13.86, 3, 726, Salatka grecka, 1574
+5.26, 1, 726, Capri 250ml, 1575
+42.41, 5, 726, Paleo Stuffed Cabbage, 1576
+13.14, 4, 727, Wodka Mr Thadeo 100ml, 1577
+38.43, 3, 727, Spaghetti alla Bollognese, 1578
+29.13, 1, 727, Apricot Mustard-Glazed Salmon, 1579
+42.71, 3, 728, Kielbasa with Brussels, 1580
+14.51, 4, 728, Wodka Mr Thadeo 100ml, 1581
+3.87, 4, 728, Argus 500ml mojito , 1582
+5.08, 1, 729, Capri 250ml, 1583
+14.39, 2, 729, Wodka Mr Thadeo 100ml, 1584
+24.61, 2, 730, Gorace udka kurczaka, 1585
+17.69, 2, 730, Barley water, 1586
+47.36, 3, 731, Wino Fresco 700ml litra, 1587
+23.38, 1, 731, Squash, 1588
+15.13, 3, 731, Pomidorowa, 1589
+9.39, 5, 732, Kabanosiki, 1590
+14.47, 1, 733, Yorkshire Dragon, 1591
+17.21, 2, 733, Wodka Mr Thadeo 100ml, 1592
+24.89, 3, 733, Scrambled Eggs, 1593
+46.57, 1, 733, Spicy Thai Basil Chicken, 1594
+11.60, 2, 734, Karpatka, 1595
+49.96, 4, 735, Spaghetti alla Bollognese, 1596
+23.67, 1, 735, Back bacon with fired bread, 1597
+12.85, 3, 736, Yorkshire Dragon, 1598
+44.55, 5, 736, Apricot Mustard-Glazed Salmon, 1599
+20.07, 1, 736, Squash, 1600
+14.30, 4, 736, Yorkshire Dragon, 1601
+63.95, 4, 737, Sandacz po szwedzku, 1602
+33.96, 2, 737, Apricot Mustard-Glazed Salmon, 1603
+16.09, 3, 738, Barley water, 1604
+21.73, 4, 738, Gorace udka kurczaka, 1605
+15.48, 5, 739, Margharita, 1606
+42.94, 3, 739, Spaghetti alla Bollognese, 1607
+8.79, 5, 740, Margharita, 1608
+4.73, 4, 740, Piwo Tyskie 250ml, 1609
+8.79, 2, 741, Kabanosiki, 1610
+13.15, 4, 741, Salatka grecka, 1611
+8.99, 5, 742, Kabanosiki, 1612
+22.57, 4, 742, Pomidorowa, 1613
+41.82, 2, 742, Indian Chicken Curry, 1614
+10.96, 2, 743, Yorkshire Dragon, 1615
+3.04, 5, 743, Piwo Harde 500 ml, 1616
+38.11, 2, 744, Prosciutto, 1617
+17.48, 2, 744, Barley water, 1618
+11.93, 1, 744, Salatka grecka, 1619
+43.59, 4, 744, Spaghetti alla Bollognese, 1620
+18.49, 1, 745, Barley water, 1621
+21.15, 2, 745, Squash, 1622
+5.54, 3, 746, Capri 250ml, 1623
+9.46, 2, 747, Margharita, 1624
+27.12, 4, 747, Prosciutto, 1625
+40.17, 3, 748, Wino Fresco 700ml litra, 1626
+53.94, 3, 748, Spaghetti alla Bollognese, 1627
+21.59, 5, 749, Back bacon with fired bread, 1628
+37.10, 1, 749, Kielbasa with Brussels, 1629
+18.52, 5, 750, Pomidorowa, 1630
+33.11, 3, 751, Apricot Mustard-Glazed Salmon, 1631
+12.35, 2, 751, Salatka grecka, 1632
+16.88, 5, 751, Salatka grecka, 1633
+5.82, 1, 751, Capri 250ml, 1634
+10.50, 4, 752, Kabanosiki, 1635
+70.41, 2, 752, Sandacz po szwedzku, 1636
+22.92, 4, 752, Back bacon with fired bread, 1637
+21.78, 1, 753, Back bacon with fired bread, 1638
+5.01, 1, 753, Piwo Tyskie 250ml, 1639
+42.37, 4, 753, Wino Fresco 700ml litra, 1640
+34.64, 4, 754, Paleo Stuffed Cabbage, 1641
+70.22, 3, 754, Dijon Pork with, 1642
+81.09, 2, 755, Sandacz po szwedzku, 1643
+13.42, 5, 756, Kabanosiki, 1644
+21.39, 1, 756, Scrambled Eggs, 1645
+33.15, 1, 757, Prosciutto, 1646
+41.75, 4, 757, Indian Chicken Curry, 1647
+8.30, 3, 758, Margharita, 1648
+9.01, 1, 758, Kabanosiki, 1649
+23.16, 5, 758, Scrambled Eggs, 1650
+19.90, 2, 758, Squash, 1651
+65.88, 4, 759, Dijon Pork with, 1652
+10.34, 1, 759, Margharita, 1653
+16.86, 2, 760, Obiadek u babci, 1654
+10.80, 1, 760, Karpatka, 1655
+32.98, 5, 760, Apricot Mustard-Glazed Salmon, 1656
+10.41, 2, 761, Bubble and squeak, 1657
+9.33, 5, 761, Wodka Zubr 100ml, 1658
+17.96, 1, 762, Barley water, 1659
+57.90, 4, 763, Sandacz po szwedzku, 1660
+33.08, 1, 764, Prosciutto, 1661
+12.86, 1, 764, Yorkshire Dragon, 1662
+4.04, 4, 765, Piwo Tyskie 250ml, 1663
+16.34, 4, 765, Capri, 1664
+30.85, 2, 766, Indian Chicken Curry, 1665
+12.75, 5, 766, Salatka grecka, 1666
+34.71, 3, 767, Apricot Mustard-Glazed Salmon, 1667
+19.25, 1, 767, Pomidorowa, 1668
+12.10, 3, 768, Kabanosiki, 1669
+3.69, 5, 769, Piwo Harde 500 ml, 1670
+18.23, 2, 769, Scrambled Eggs, 1671
+12.17, 1, 770, Bubble and squeak, 1672
+11.90, 5, 770, Pomidorowa, 1673
+22.70, 5, 771, Pomidorowa, 1674
+3.58, 3, 771, Argus 500ml mojito , 1675
+43.53, 4, 771, Wino Fresco 700ml litra, 1676
+13.35, 5, 772, Pomidorowa, 1677
+25.78, 3, 773, Gorace udka kurczaka, 1678
+2.55, 2, 773, Argus 500ml mojito , 1679
+24.03, 1, 774, Back bacon with fired bread, 1680
+4.99, 3, 774, Capri 250ml, 1681
+20.57, 5, 774, Obiadek u babci, 1682
+16.92, 4, 775, Capri, 1683
+8.05, 2, 775, Kabanosiki, 1684
+21.52, 1, 775, Obiadek u babci, 1685
+24.39, 2, 776, Gorace udka kurczaka, 1686
+20.42, 4, 776, Obiadek u babci, 1687
+38.73, 3, 777, Prosciutto, 1688
+20.34, 4, 777, Scrambled Eggs, 1689
+68.79, 1, 778, Dijon Pork with, 1690
+22.20, 4, 778, Gorace udka kurczaka, 1691
+8.49, 2, 778, Bubble and squeak, 1692
+5.54, 2, 779, Capri 250ml, 1693
+23.23, 3, 779, Squash, 1694
+5.02, 2, 780, Capri 250ml, 1695
+27.08, 1, 780, Squash, 1696
+37.39, 5, 780, Prosciutto, 1697
+17.54, 5, 780, Yorkshire Dragon, 1698
+84.36, 5, 781, Dijon Pork with, 1699
+33.50, 2, 781, Kielbasa with Brussels, 1700
+10.45, 2, 782, Margharita, 1701
+20.27, 4, 783, Barley water, 1702
+5.44, 4, 783, Piwo Tyskie 250ml, 1703
+17.70, 1, 783, Squash, 1704
+18.42, 5, 784, Gorace udka kurczaka, 1705
+17.81, 5, 784, Yorkshire Dragon, 1706
+4.15, 4, 785, Argus 500ml mojito , 1707
+50.32, 1, 786, Wino Fresco 700ml litra, 1708
+4.56, 2, 786, Capri 250ml, 1709
+10.53, 4, 787, Margharita, 1710
+38.95, 5, 787, Apricot Mustard-Glazed Salmon, 1711
+15.48, 4, 788, Pomidorowa, 1712
+63.37, 5, 789, Sandacz po szwedzku, 1713
+50.76, 1, 790, Prosciutto, 1714
+8.02, 4, 790, Margharita, 1715
+48.17, 2, 790, Spaghetti alla Bollognese, 1716
+24.41, 1, 791, Spicy Thai Basil Chicken, 1717
+67.67, 1, 791, Sandacz po szwedzku, 1718
+15.42, 4, 792, Barley water, 1719
+14.80, 5, 792, Wodka Mr Thadeo 100ml, 1720
+18.56, 4, 792, Capri, 1721
+23.07, 4, 793, Squash, 1722
+36.59, 4, 793, Paleo Stuffed Cabbage, 1723
+28.60, 3, 793, Apricot Mustard-Glazed Salmon, 1724
+14.69, 3, 794, Squash, 1725
+49.43, 3, 794, Wino Fresco 700ml litra, 1726
+5.09, 5, 795, Piwo Tyskie 250ml, 1727
+34.12, 3, 795, Apricot Mustard-Glazed Salmon, 1728
+9.90, 3, 796, Margharita, 1729
+9.21, 3, 797, Margharita, 1730
+53.48, 2, 797, Sandacz po szwedzku, 1731
+57.29, 1, 798, Sandacz po szwedzku, 1732
+20.48, 2, 798, Back bacon with fired bread, 1733
+57.91, 1, 798, Wino Fresco 700ml litra, 1734
+58.84, 2, 798, Wino Fresco 700ml litra, 1735
+33.70, 4, 799, Prosciutto, 1736
+38.65, 2, 799, Kielbasa with Brussels, 1737
+16.88, 4, 799, Barley water, 1738
+37.62, 1, 800, Indian Chicken Curry, 1739
+35.49, 5, 800, Prosciutto, 1740
+25.08, 4, 801, Gorace udka kurczaka, 1741
+25.93, 1, 801, Gorace udka kurczaka, 1742
+27.57, 3, 801, Squash, 1743
+51.61, 3, 801, Wino Fresco 700ml litra, 1744
+9.47, 5, 802, Margharita, 1745
+15.26, 1, 802, Pomidorowa, 1746
+19.77, 2, 802, Pomidorowa, 1747
+38.43, 5, 803, Kielbasa with Brussels, 1748
+8.14, 2, 804, Kabanosiki, 1749
+63.23, 5, 804, Sandacz po szwedzku, 1750
+55.59, 2, 804, Spaghetti alla Bollognese, 1751
+35.73, 3, 805, Spicy Thai Basil Chicken, 1752
+3.22, 4, 805, Piwo Harde 500 ml, 1753
+16.19, 2, 806, Yorkshire Dragon, 1754
+11.12, 2, 806, Karpatka, 1755
+47.35, 1, 806, Prosciutto, 1756
+2.62, 2, 807, Piwo Harde 500 ml, 1757
+61.49, 1, 807, Dijon Pork with, 1758
+11.32, 5, 808, Yorkshire Dragon, 1759
+5.41, 3, 808, Piwo Tyskie 250ml, 1760
+3.78, 5, 809, Piwo Harde 500 ml, 1761
+17.42, 5, 809, Obiadek u babci, 1762
+29.80, 3, 809, Prosciutto, 1763
+4.62, 2, 810, Piwo Harde 500 ml, 1764
+7.70, 5, 810, Karpatka, 1765
+26.29, 1, 811, Back bacon with fired bread, 1766
+3.17, 4, 812, Piwo Harde 500 ml, 1767
+18.95, 2, 812, Capri, 1768
+36.92, 5, 812, Paleo Stuffed Cabbage, 1769
+50.04, 1, 813, Indian Chicken Curry, 1770
+16.37, 1, 814, Wodka Mr Thadeo 100ml, 1771
+15.24, 4, 814, Obiadek u babci, 1772
+18.78, 3, 815, Wodka Mr Thadeo 100ml, 1773
+9.73, 5, 816, Kabanosiki, 1774
+3.99, 4, 816, Piwo Harde 500 ml, 1775
+32.16, 3, 816, Gorace udka kurczaka, 1776
+19.84, 5, 817, Back bacon with fired bread, 1777
+39.37, 3, 817, Spaghetti alla Bollognese, 1778
+44.55, 3, 818, Spaghetti alla Bollognese, 1779
+13.67, 3, 818, Yorkshire Dragon, 1780
+17.10, 1, 818, Salatka grecka, 1781
+19.48, 5, 818, Back bacon with fired bread, 1782
+4.25, 3, 819, Argus 500ml mojito , 1783
+40.71, 3, 819, Spicy Thai Basil Chicken, 1784
+7.18, 4, 820, Kabanosiki, 1785
+3.45, 2, 820, Piwo Harde 500 ml, 1786
+3.87, 5, 820, Piwo Harde 500 ml, 1787
+22.70, 2, 821, Capri, 1788
+8.60, 1, 821, Bubble and squeak, 1789
+4.66, 5, 821, Piwo Tyskie 250ml, 1790
+11.04, 1, 822, Karpatka, 1791
+18.50, 3, 822, Pomidorowa, 1792
+4.90, 1, 822, Piwo Tyskie 250ml, 1793
+3.06, 1, 822, Argus 500ml mojito , 1794
+16.24, 3, 823, Yorkshire Dragon, 1795
+43.94, 4, 823, Prosciutto, 1796
+12.88, 2, 824, Yorkshire Dragon, 1797
+2.46, 3, 825, Piwo Harde 500 ml, 1798
+33.31, 1, 825, Spicy Thai Basil Chicken, 1799
+58.16, 1, 825, Dijon Pork with, 1800
+25.18, 5, 825, Scrambled Eggs, 1801
+16.22, 5, 826, Obiadek u babci, 1802
+13.49, 3, 826, Salatka grecka, 1803
+6.07, 1, 827, Capri 250ml, 1804
+12.92, 3, 828, Wodka Mr Thadeo 100ml, 1805
+5.72, 3, 829, Wodka Zubr 100ml, 1806
+26.18, 4, 829, Gorace udka kurczaka, 1807
+3.49, 4, 830, Piwo Harde 500 ml, 1808
+74.11, 5, 831, Dijon Pork with, 1809
+27.79, 4, 831, Paleo Stuffed Cabbage, 1810
+58.91, 5, 831, Dijon Pork with, 1811
+17.38, 3, 832, Back bacon with fired bread, 1812
+3.82, 3, 832, Piwo Harde 500 ml, 1813
+3.05, 2, 833, Argus 500ml mojito , 1814
+41.88, 4, 833, Spaghetti alla Bollognese, 1815
+8.14, 5, 834, Wodka Zubr 100ml, 1816
+17.50, 1, 835, Salatka grecka, 1817
+23.77, 2, 835, Back bacon with fired bread, 1818
+12.43, 1, 835, Salatka grecka, 1819
+14.47, 3, 836, Wodka Mr Thadeo 100ml, 1820
+23.85, 4, 836, Squash, 1821
+21.82, 1, 836, Scrambled Eggs, 1822
+18.52, 1, 837, Obiadek u babci, 1823
+20.23, 1, 837, Back bacon with fired bread, 1824
+60.38, 2, 837, Indian Chicken Curry, 1825
+48.26, 2, 838, Kielbasa with Brussels, 1826
+18.17, 2, 838, Capri, 1827
+11.73, 5, 839, Salatka grecka, 1828
+36.21, 5, 839, Prosciutto, 1829
+38.01, 2, 839, Kielbasa with Brussels, 1830
+9.82, 3, 840, Kabanosiki, 1831
+19.72, 3, 840, Squash, 1832
+12.59, 4, 840, Margharita, 1833
+42.95, 3, 841, Kielbasa with Brussels, 1834
+19.76, 1, 842, Back bacon with fired bread, 1835
+6.89, 3, 842, Capri 250ml, 1836
+36.84, 5, 842, Spaghetti alla Bollognese, 1837
+29.56, 4, 842, Prosciutto, 1838
+21.03, 4, 843, Squash, 1839
+4.80, 5, 843, Piwo Harde 500 ml, 1840
+13.32, 2, 843, Wodka Mr Thadeo 100ml, 1841
+11.53, 1, 844, Wodka Mr Thadeo 100ml, 1842
+21.41, 2, 844, Obiadek u babci, 1843
+3.24, 4, 845, Argus 500ml mojito , 1844
+51.14, 2, 845, Indian Chicken Curry, 1845
+5.22, 2, 845, Piwo Tyskie 250ml, 1846
+8.69, 2, 846, Wodka Zubr 100ml, 1847
+21.33, 3, 846, Barley water, 1848
+8.17, 2, 846, Karpatka, 1849
+5.28, 4, 847, Argus 500ml mojito , 1850
+22.83, 5, 847, Squash, 1851
+24.60, 5, 847, Obiadek u babci, 1852
+42.81, 5, 848, Kielbasa with Brussels, 1853
+24.58, 3, 849, Scrambled Eggs, 1854
+3.72, 1, 849, Capri 250ml, 1855
+32.03, 1, 849, Prosciutto, 1856
+33.15, 3, 850, Spaghetti alla Bollognese, 1857
+39.09, 1, 850, Prosciutto, 1858
+20.17, 2, 850, Capri, 1859
+26.85, 4, 850, Gorace udka kurczaka, 1860
+22.52, 2, 851, Squash, 1861
+19.15, 5, 851, Squash, 1862
+12.88, 2, 852, Pomidorowa, 1863
+42.24, 4, 852, Spaghetti alla Bollognese, 1864
+14.52, 5, 852, Wodka Mr Thadeo 100ml, 1865
+19.71, 4, 852, Barley water, 1866
+10.77, 4, 853, Kabanosiki, 1867
+15.97, 5, 853, Obiadek u babci, 1868
+8.50, 2, 854, Karpatka, 1869
+17.92, 5, 855, Squash, 1870
+62.04, 4, 856, Sandacz po szwedzku, 1871
+12.14, 4, 856, Kabanosiki, 1872
+8.18, 1, 856, Margharita, 1873
+10.81, 3, 857, Karpatka, 1874
+53.59, 5, 857, Wino Fresco 700ml litra, 1875
+32.85, 3, 858, Kielbasa with Brussels, 1876
+5.46, 4, 858, Capri 250ml, 1877
+14.06, 5, 859, Yorkshire Dragon, 1878
+24.75, 3, 859, Paleo Stuffed Cabbage, 1879
+14.50, 5, 859, Obiadek u babci, 1880
+29.17, 4, 860, Paleo Stuffed Cabbage, 1881
+22.81, 1, 860, Squash, 1882
+16.82, 4, 860, Capri, 1883
+65.55, 2, 861, Sandacz po szwedzku, 1884
+11.00, 5, 861, Karpatka, 1885
+21.49, 2, 861, Barley water, 1886
+10.48, 4, 861, Karpatka, 1887
+3.92, 2, 862, Piwo Harde 500 ml, 1888
+10.68, 4, 862, Karpatka, 1889
+10.16, 1, 863, Karpatka, 1890
+2.98, 1, 864, Piwo Harde 500 ml, 1891
+29.74, 2, 864, Capri, 1892
+61.26, 4, 865, Dijon Pork with, 1893
+28.31, 4, 865, Apricot Mustard-Glazed Salmon, 1894
+17.57, 3, 866, Salatka grecka, 1895
+16.88, 5, 866, Pomidorowa, 1896
+3.95, 1, 866, Piwo Tyskie 250ml, 1897
+53.33, 3, 867, Dijon Pork with, 1898
+33.05, 4, 867, Kielbasa with Brussels, 1899
+4.70, 5, 867, Piwo Tyskie 250ml, 1900
+22.53, 5, 868, Capri, 1901
+62.47, 4, 868, Indian Chicken Curry, 1902
+67.53, 1, 868, Dijon Pork with, 1903
+41.77, 1, 869, Paleo Stuffed Cabbage, 1904
+20.02, 2, 869, Gorace udka kurczaka, 1905
+27.48, 1, 869, Obiadek u babci, 1906
+33.35, 1, 870, Kielbasa with Brussels, 1907
+19.07, 2, 870, Salatka grecka, 1908
+30.02, 1, 871, Paleo Stuffed Cabbage, 1909
+34.29, 3, 872, Apricot Mustard-Glazed Salmon, 1910
+16.10, 1, 873, Scrambled Eggs, 1911
+38.16, 2, 873, Apricot Mustard-Glazed Salmon, 1912
+3.86, 3, 873, Piwo Tyskie 250ml, 1913
+17.63, 5, 874, Gorace udka kurczaka, 1914
+2.99, 4, 874, Argus 500ml mojito , 1915
+15.10, 2, 875, Back bacon with fired bread, 1916
+17.26, 5, 875, Obiadek u babci, 1917
+53.49, 2, 876, Dijon Pork with, 1918
+21.36, 4, 876, Back bacon with fired bread, 1919
+45.92, 3, 876, Indian Chicken Curry, 1920
+23.16, 3, 877, Gorace udka kurczaka, 1921
+42.07, 5, 877, Paleo Stuffed Cabbage, 1922
+23.81, 4, 878, Barley water, 1923
+9.25, 2, 878, Karpatka, 1924
+11.04, 2, 879, Bubble and squeak, 1925
+63.57, 1, 880, Wino Fresco 700ml litra, 1926
+10.47, 1, 880, Bubble and squeak, 1927
+11.43, 3, 881, Yorkshire Dragon, 1928
+45.50, 5, 881, Wino Fresco 700ml litra, 1929
+5.37, 2, 881, Piwo Tyskie 250ml, 1930
+6.25, 2, 881, Wodka Zubr 100ml, 1931
+9.01, 2, 882, Margharita, 1932
+19.91, 3, 882, Pomidorowa, 1933
+27.34, 3, 883, Capri, 1934
+10.41, 4, 883, Bubble and squeak, 1935
+3.89, 5, 883, Piwo Tyskie 250ml, 1936
+42.55, 2, 884, Indian Chicken Curry, 1937
+18.55, 5, 885, Barley water, 1938
+4.62, 3, 886, Piwo Tyskie 250ml, 1939
+10.47, 1, 886, Kabanosiki, 1940
+12.62, 4, 887, Margharita, 1941
+30.65, 5, 887, Apricot Mustard-Glazed Salmon, 1942
+8.09, 1, 887, Bubble and squeak, 1943
+8.15, 1, 887, Bubble and squeak, 1944
+26.76, 4, 888, Back bacon with fired bread, 1945
+40.09, 2, 889, Spicy Thai Basil Chicken, 1946
+15.04, 4, 890, Obiadek u babci, 1947
+4.12, 4, 890, Piwo Tyskie 250ml, 1948
+41.19, 4, 890, Spaghetti alla Bollognese, 1949
+49.16, 4, 891, Sandacz po szwedzku, 1950
+15.89, 5, 891, Back bacon with fired bread, 1951
+35.48, 1, 892, Prosciutto, 1952
+26.30, 5, 893, Squash, 1953
+11.21, 3, 893, Bubble and squeak, 1954
+8.36, 5, 893, Margharita, 1955
+17.78, 5, 894, Wodka Mr Thadeo 100ml, 1956
+18.59, 3, 894, Wodka Mr Thadeo 100ml, 1957
+4.69, 1, 895, Piwo Harde 500 ml, 1958
+37.19, 5, 895, Spicy Thai Basil Chicken, 1959
+7.69, 2, 895, Bubble and squeak, 1960
+11.54, 4, 895, Karpatka, 1961
+27.34, 2, 896, Back bacon with fired bread, 1962
+17.55, 4, 897, Capri, 1963
+11.14, 2, 897, Wodka Zubr 100ml, 1964
+11.11, 1, 897, Salatka grecka, 1965
+17.17, 2, 898, Back bacon with fired bread, 1966
+3.74, 5, 899, Piwo Harde 500 ml, 1967
+71.37, 4, 899, Dijon Pork with, 1968
+10.30, 4, 900, Kabanosiki, 1969
+15.93, 3, 900, Wodka Mr Thadeo 100ml, 1970
+3.81, 2, 901, Argus 500ml mojito , 1971
+32.98, 1, 902, Apricot Mustard-Glazed Salmon, 1972
+19.83, 2, 903, Squash, 1973
+5.51, 4, 903, Piwo Tyskie 250ml, 1974
+22.74, 2, 903, Barley water, 1975
+42.12, 3, 903, Paleo Stuffed Cabbage, 1976
+23.31, 1, 904, Barley water, 1977
+58.20, 5, 904, Sandacz po szwedzku, 1978
+43.10, 3, 905, Wino Fresco 700ml litra, 1979
+22.13, 1, 906, Scrambled Eggs, 1980
+23.40, 1, 906, Barley water, 1981
+46.76, 2, 907, Paleo Stuffed Cabbage, 1982
+13.24, 2, 907, Yorkshire Dragon, 1983
+15.99, 5, 908, Pomidorowa, 1984
+7.71, 5, 908, Karpatka, 1985
+4.40, 4, 908, Argus 500ml mojito , 1986
+49.12, 3, 909, Dijon Pork with, 1987
+74.81, 5, 909, Sandacz po szwedzku, 1988
+36.65, 3, 910, Kielbasa with Brussels, 1989
+21.52, 3, 910, Gorace udka kurczaka, 1990
+37.02, 3, 911, Kielbasa with Brussels, 1991
+52.51, 2, 911, Indian Chicken Curry, 1992
+20.26, 1, 911, Capri, 1993
+18.87, 3, 912, Back bacon with fired bread, 1994
+4.58, 1, 912, Piwo Tyskie 250ml, 1995
+21.64, 4, 912, Obiadek u babci, 1996
+42.43, 4, 913, Apricot Mustard-Glazed Salmon, 1997
+63.87, 4, 913, Indian Chicken Curry, 1998
+57.15, 4, 913, Sandacz po szwedzku, 1999
+22.69, 3, 914, Capri, 2000
+9.85, 2, 914, Margharita, 2001
+16.05, 4, 914, Obiadek u babci, 2002
+3.17, 1, 915, Argus 500ml mojito , 2003
+60.01, 2, 915, Dijon Pork with, 2004
+8.24, 3, 915, Wodka Zubr 100ml, 2005
+17.97, 5, 916, Wodka Mr Thadeo 100ml, 2006
+3.37, 4, 916, Argus 500ml mojito , 2007
+9.24, 5, 917, Bubble and squeak, 2008
+14.59, 3, 917, Yorkshire Dragon, 2009
+17.86, 5, 917, Gorace udka kurczaka, 2010
+47.08, 3, 918, Spaghetti alla Bollognese, 2011
+45.69, 3, 918, Kielbasa with Brussels, 2012
+42.60, 3, 919, Kielbasa with Brussels, 2013
+9.19, 1, 919, Bubble and squeak, 2014
+21.18, 5, 920, Back bacon with fired bread, 2015
+48.14, 3, 920, Spaghetti alla Bollognese, 2016
+7.45, 4, 921, Karpatka, 2017
+39.50, 3, 921, Indian Chicken Curry, 2018
+4.42, 5, 922, Piwo Tyskie 250ml, 2019
+4.29, 3, 922, Piwo Tyskie 250ml, 2020
+4.89, 5, 923, Capri 250ml, 2021
+3.30, 1, 923, Piwo Harde 500 ml, 2022
+21.36, 1, 924, Back bacon with fired bread, 2023
+35.34, 2, 925, Apricot Mustard-Glazed Salmon, 2024
+40.04, 5, 925, Indian Chicken Curry, 2025
+38.76, 5, 926, Paleo Stuffed Cabbage, 2026
+35.31, 5, 926, Paleo Stuffed Cabbage, 2027
+2.80, 4, 927, Piwo Harde 500 ml, 2028
+44.12, 2, 928, Spaghetti alla Bollognese, 2029
+48.94, 2, 928, Kielbasa with Brussels, 2030
+3.80, 1, 928, Piwo Harde 500 ml, 2031
+38.01, 4, 929, Kielbasa with Brussels, 2032
+11.51, 1, 930, Wodka Mr Thadeo 100ml, 2033
+26.49, 5, 930, Capri, 2034
+39.67, 4, 930, Apricot Mustard-Glazed Salmon, 2035
+8.64, 2, 931, Bubble and squeak, 2036
+60.58, 4, 931, Wino Fresco 700ml litra, 2037
+12.40, 3, 932, Karpatka, 2038
+4.80, 3, 932, Piwo Tyskie 250ml, 2039
+18.87, 5, 933, Barley water, 2040
+3.17, 2, 933, Piwo Harde 500 ml, 2041
+32.17, 1, 933, Paleo Stuffed Cabbage, 2042
+38.01, 1, 934, Kielbasa with Brussels, 2043
+21.62, 1, 935, Obiadek u babci, 2044
+31.44, 4, 935, Spicy Thai Basil Chicken, 2045
+31.01, 5, 935, Paleo Stuffed Cabbage, 2046
+35.51, 2, 936, Apricot Mustard-Glazed Salmon, 2047
+3.74, 4, 936, Argus 500ml mojito , 2048
+49.63, 1, 937, Kielbasa with Brussels, 2049
+26.70, 5, 937, Gorace udka kurczaka, 2050
+38.74, 3, 938, Wino Fresco 700ml litra, 2051
+7.23, 2, 938, Bubble and squeak, 2052
+13.31, 1, 938, Wodka Mr Thadeo 100ml, 2053
+31.10, 1, 939, Kielbasa with Brussels, 2054
+26.83, 4, 939, Back bacon with fired bread, 2055
+35.90, 1, 939, Apricot Mustard-Glazed Salmon, 2056
+4.46, 1, 939, Argus 500ml mojito , 2057
+48.72, 4, 940, Paleo Stuffed Cabbage, 2058
+55.48, 1, 940, Indian Chicken Curry, 2059
+13.86, 1, 940, Salatka grecka, 2060
+8.20, 2, 941, Margharita, 2061
+21.50, 4, 942, Scrambled Eggs, 2062
+28.08, 2, 942, Kielbasa with Brussels, 2063
+30.14, 5, 943, Paleo Stuffed Cabbage, 2064
+7.31, 4, 943, Wodka Zubr 100ml, 2065
+21.72, 3, 944, Obiadek u babci, 2066
+42.47, 3, 944, Indian Chicken Curry, 2067
+75.09, 5, 945, Dijon Pork with, 2068
+9.70, 5, 945, Yorkshire Dragon, 2069
+11.67, 5, 946, Salatka grecka, 2070
+41.99, 1, 946, Kielbasa with Brussels, 2071
+42.26, 4, 947, Paleo Stuffed Cabbage, 2072
+8.18, 1, 947, Karpatka, 2073
+19.00, 3, 948, Wodka Mr Thadeo 100ml, 2074
+48.87, 3, 948, Indian Chicken Curry, 2075
+11.68, 2, 948, Salatka grecka, 2076
+13.40, 1, 949, Salatka grecka, 2077
+19.69, 5, 949, Wodka Mr Thadeo 100ml, 2078
+11.19, 3, 950, Salatka grecka, 2079
+11.66, 1, 950, Yorkshire Dragon, 2080
+17.52, 1, 950, Barley water, 2081
+21.38, 3, 951, Gorace udka kurczaka, 2082
+33.64, 3, 951, Kielbasa with Brussels, 2083
+22.30, 5, 951, Squash, 2084
+43.23, 2, 952, Prosciutto, 2085
+26.50, 5, 952, Gorace udka kurczaka, 2086
+26.85, 2, 952, Gorace udka kurczaka, 2087
+48.91, 1, 953, Spaghetti alla Bollognese, 2088
+16.01, 3, 953, Obiadek u babci, 2089
+15.10, 4, 954, Wodka Mr Thadeo 100ml, 2090
+17.90, 5, 955, Wodka Mr Thadeo 100ml, 2091
+45.98, 3, 955, Indian Chicken Curry, 2092
+38.22, 3, 955, Paleo Stuffed Cabbage, 2093
+13.70, 4, 956, Salatka grecka, 2094
+33.30, 2, 957, Gorace udka kurczaka, 2095
+11.82, 3, 958, Salatka grecka, 2096
+23.93, 2, 959, Back bacon with fired bread, 2097
+67.58, 2, 959, Sandacz po szwedzku, 2098
+20.15, 3, 960, Scrambled Eggs, 2099
+12.36, 1, 960, Wodka Mr Thadeo 100ml, 2100
+56.87, 1, 960, Spaghetti alla Bollognese, 2101
+42.07, 4, 961, Prosciutto, 2102
+36.87, 3, 961, Prosciutto, 2103
+6.87, 2, 962, Bubble and squeak, 2104
+18.83, 2, 963, Obiadek u babci, 2105
+12.61, 4, 963, Yorkshire Dragon, 2106
+16.37, 1, 964, Wodka Mr Thadeo 100ml, 2107
+24.84, 4, 965, Scrambled Eggs, 2108
+86.37, 5, 965, Dijon Pork with, 2109
+42.52, 4, 966, Indian Chicken Curry, 2110
+4.06, 2, 966, Argus 500ml mojito , 2111
+18.53, 1, 966, Obiadek u babci, 2112
+35.14, 5, 966, Prosciutto, 2113
+13.72, 3, 967, Pomidorowa, 2114
+18.21, 3, 968, Squash, 2115
+4.32, 1, 968, Piwo Tyskie 250ml, 2116
+10.78, 3, 968, Wodka Zubr 100ml, 2117
+17.49, 3, 969, Obiadek u babci, 2118
+26.91, 3, 969, Kielbasa with Brussels, 2119
+33.52, 3, 970, Kielbasa with Brussels, 2120
+12.42, 5, 970, Bubble and squeak, 2121
+29.24, 4, 970, Apricot Mustard-Glazed Salmon, 2122
+40.99, 4, 970, Kielbasa with Brussels, 2123
+13.86, 2, 971, Salatka grecka, 2124
+10.86, 5, 971, Yorkshire Dragon, 2125
+60.24, 5, 971, Wino Fresco 700ml litra, 2126
+15.50, 4, 972, Back bacon with fired bread, 2127
+4.86, 5, 972, Capri 250ml, 2128
+10.64, 3, 972, Karpatka, 2129
+46.99, 1, 973, Apricot Mustard-Glazed Salmon, 2130
+44.24, 1, 974, Spaghetti alla Bollognese, 2131
+3.35, 5, 974, Argus 500ml mojito , 2132
+21.28, 4, 975, Obiadek u babci, 2133
+7.14, 5, 975, Capri 250ml, 2134
+9.77, 1, 975, Karpatka, 2135
+3.80, 4, 975, Piwo Harde 500 ml, 2136
+12.47, 4, 976, Yorkshire Dragon, 2137
+45.25, 4, 977, Kielbasa with Brussels, 2138
+20.43, 5, 977, Barley water, 2139
+31.96, 4, 978, Apricot Mustard-Glazed Salmon, 2140
+21.36, 1, 979, Squash, 2141
+44.16, 5, 979, Spicy Thai Basil Chicken, 2142
+34.94, 4, 980, Indian Chicken Curry, 2143
+44.47, 4, 981, Apricot Mustard-Glazed Salmon, 2144
+7.87, 4, 981, Wodka Zubr 100ml, 2145
+12.29, 3, 981, Pomidorowa, 2146
+15.51, 5, 981, Wodka Mr Thadeo 100ml, 2147
+8.19, 4, 982, Margharita, 2148
+38.01, 4, 982, Kielbasa with Brussels, 2149
+2.85, 3, 982, Piwo Harde 500 ml, 2150
+4.25, 4, 982, Argus 500ml mojito , 2151
+4.86, 2, 983, Capri 250ml, 2152
+8.27, 3, 983, Bubble and squeak, 2153
+44.55, 1, 983, Apricot Mustard-Glazed Salmon, 2154
+21.31, 2, 984, Gorace udka kurczaka, 2155
+24.51, 5, 985, Barley water, 2156
+2.91, 2, 986, Argus 500ml mojito , 2157
+87.57, 2, 986, Dijon Pork with, 2158
+38.61, 4, 987, Apricot Mustard-Glazed Salmon, 2159
+12.58, 1, 987, Pomidorowa, 2160
+33.27, 3, 988, Paleo Stuffed Cabbage, 2161
+3.21, 3, 988, Piwo Harde 500 ml, 2162
+8.96, 2, 988, Kabanosiki, 2163
+3.44, 1, 989, Piwo Harde 500 ml, 2164
+11.79, 3, 989, Margharita, 2165
+17.53, 4, 990, Pomidorowa, 2166
+13.07, 4, 990, Yorkshire Dragon, 2167
+12.84, 5, 991, Yorkshire Dragon, 2168
+4.01, 5, 991, Argus 500ml mojito , 2169
+26.38, 1, 992, Gorace udka kurczaka, 2170
+13.93, 3, 993, Pomidorowa, 2171
+24.56, 5, 993, Gorace udka kurczaka, 2172
+27.72, 1, 994, Paleo Stuffed Cabbage, 2173
+35.09, 5, 995, Prosciutto, 2174
+27.01, 2, 995, Barley water, 2175
+49.24, 2, 996, Kielbasa with Brussels, 2176
+37.51, 1, 996, Paleo Stuffed Cabbage, 2177
+41.54, 1, 996, Kielbasa with Brussels, 2178
+27.41, 3, 996, Paleo Stuffed Cabbage, 2179
+3.34, 3, 997, Argus 500ml mojito , 2180
+51.51, 1, 998, Wino Fresco 700ml litra, 2181
+42.03, 1, 998, Wino Fresco 700ml litra, 2182
+28.91, 1, 999, Spicy Thai Basil Chicken, 2183
+19.50, 5, 999, Scrambled Eggs, 2184
+35.73, 1, 999, Spicy Thai Basil Chicken, 2185
+22.21, 5, 1000, Gorace udka kurczaka, 2186

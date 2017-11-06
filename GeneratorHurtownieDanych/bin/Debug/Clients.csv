@@ -1,70 +1,250 @@
-Bernard, Saucedo,211472338, Porzeczkowa, 40, 23, 1
-Ivan, Rueda,843560635, Dobrolistna, 34, 39, 2
-Bernard, Mamami,870241424, Porzeczkowa, 12, 32, 3
-Dimas, Mamami,644800844, Okopowa, 42, 30, 4
-Reina, Tapia,522443414, Ananasowa, 3, 28, 5
-David, Rueda,170178603, Ananasowa, 3, 15, 6
-Sergio, Tapia,326326512, Piekarska, 17, 24, 7
-Reina, Galviz,808381456, Szewcowa, 3, 19, 8
-Danny, Yuli,882730615, Dobrolistna, 3, 33, 9
-Ivan, Dominguez,501850023, Szewcowa, 44, 29, 10
-Daniel, Rivera,631361226, Dobrolistna, 42, 32, 11
-David, Yuli,420515051, Kosynierska, 19, 24, 12
-Sergio, Saucedo,531410424, Szewcowa, 26, 12, 13
-Daniel, Dominguez,384222717, Kazimierza Wielkiego, 34, 39, 14
-Sergio, Gutierrez,270676630, Piekarska, 13, 3, 15
-Sergio, Escobar,788206317, Jutrzenki, 35, 19, 16
-Laura, Gutierrez,586825150, Piekarska, 31, 36, 17
-Saul, Gutierrez,841307271, Kosynierska, 29, 36, 18
-Carolina, Mamami,888681602, Ananasowa, 45, 6, 19
-Reina, Gutierrez,801204237, Kosynierska, 9, 28, 20
-Reina, Martin,726382508, Lipna, 8, 37, 21
-Ivan, Martin,287271813, Jutrzenki, 33, 22, 22
-Daniel, Dominguez,155000103, Truskawkoa, 25, 36, 23
-Yuri, Tapia,163522284, Okopowa, 39, 29, 24
-Yuri, Rivera,884750837, Jutrzenki, 37, 3, 25
-Carolina, Martin,565250054, Dobrolistna, 15, 7, 26
-Ivan, Crespo,170824146, Sosnowa, 47, 25, 27
-Yuri, Yuli,851141362, Jana Pawla, 32, 11, 28
-Saul, Martin,420276207, Dobrolistna, 44, 39, 29
-Danny, Escobar,162104670, Jutrzenki, 40, 13, 30
-Dimas, Saucedo,514478137, Swobody, 15, 36, 31
-Carolina, Dominguez,763223654, Swobody, 30, 23, 32
-Reina, Rivera,334588458, Kosynierska, 43, 26, 33
-Bernard, Martin,745816022, Sosnowa, 29, 39, 34
-Laura, Rueda,637524142, Dobrolistna, 23, 10, 35
-Yuri, Tapia,606240785, Szewcowa, 28, 38, 36
-Ivan, Dominguez,187534754, Dobrolistna, 27, 10, 37
-Bernard, Martin,356726527, Porzeczkowa, 10, 27, 38
-Danny, Crespo,605381431, Okopowa, 18, 4, 39
-David, Mamami,485144600, Piekarska, 18, 29, 40
-David, Yuli,116721842, Sosnowa, 39, 35, 41
-Dimas, Crespo,407234770, Ananasowa, 48, 28, 42
-Sergio, Escobar,827176208, Swobody, 10, 38, 43
-David, Yuli,627167503, Szewcowa, 45, 9, 44
-Carolina, Saucedo,207411583, Okopowa, 31, 15, 45
-Ivan, Crespo,274127267, Jutrzenki, 3, 35, 46
-Carolina, Crespo,846870781, Okopowa, 17, 27, 47
-Carolina, Saucedo,754512757, Okopowa, 49, 18, 48
-Dimas, Galviz,204016074, Truskawkoa, 28, 9, 49
-David, Crespo,522245722, Piekarska, 0, 12, 50
-Ivan, Martin,642603616, Truskawkoa, 32, , 51
-Reina, Rivera,173565058, Sosnowa, 30, 34, 52
-Saul, Mamami,621266183, Swobody, 24, 16, 53
-Reina, Gutierrez,533887148, Sosnowa, 13, 7, 54
-Danny, Crespo,582567446, Szewcowa, 43, 5, 55
-Danny, Mamami,480415858, Jana Pawla, 33, 10, 56
-Laura, Rivera,371248341, Truskawkoa, 48, 4, 57
-Dimas, Rueda,578880002, Ananasowa, 9, 37, 58
-Danny, Rivera,861011184, Kosynierska, 37, 36, 59
-Bernard, Escobar,600457015, Truskawkoa, 11, 10, 60
-Saul, Yuli,540763547, Jana Pawla, 46, 27, 61
-Dimas, Tapia,334021225, Dobrolistna, 46, 27, 62
-Dimas, Rueda,152588384, Dobrolistna, 15, 7, 63
-Dimas, Galviz,251782828, Jutrzenki, 46, 10, 64
-Yuri, Escobar,737348411, Okopowa, 14, 13, 65
-Daniel, Yuli,877871805, Truskawkoa, 39, 32, 66
-Dimas, Escobar,542781118, Sosnowa, 36, 1, 67
-David, Galviz,320804317, Piekarska, 13, 27, 68
-Laura, Tapia,750815564, Jutrzenki, 8, 30, 69
-Reina, Mamami,811338620, Kazimierza Wielkiego, 22, 19, 70
+David, Gutierrez,138501418, Szewcowa, 16, 8, 1
+Carolina, Escobar,360648188, Szewcowa, 15, 3, 2
+Bernard, Tapia,287802470, Jana Pawla, 36, 21, 3
+Saul, Tapia,672644102, Sosnowa, 30, 5, 4
+Carolina, Martin,556283884, Okopowa, 36, 21, 5
+Sergio, Yuli,646625108, Piekarska, 43, 5, 6
+Yuri, Martin,637563236, Dobrolistna, 27, 32, 7
+Reina, Gutierrez,417466376, Okopowa, 49, 19, 8
+David, Yuli,667047202, Sosnowa, 12, 14, 9
+Ivan, Tapia,707803571, Swobody, 38, 35, 10
+Yuri, Escobar,643537507, Jana Pawla, 28, 13, 11
+Carolina, Crespo,750330064, Ananasowa, 44, 34, 12
+Dimas, Tapia,500303367, Lipna, 34, 30, 13
+Danny, Escobar,201262857, Jana Pawla, 42, 39, 14
+Saul, Saucedo,815687376, Swobody, 45, 2, 15
+Dimas, Martin,633822530, Truskawkoa, 43, , 16
+David, Mamami,235243650, Szewcowa, 16, 10, 17
+Yuri, Rivera,465538732, Porzeczkowa, 21, 22, 18
+Reina, Dominguez,187283527, Lipna, 14, 3, 19
+David, Rueda,304382030, Kosynierska, 8, 32, 20
+Carolina, Crespo,177801404, Szewcowa, 30, 3, 21
+Laura, Saucedo,727856022, Jutrzenki, 26, 27, 22
+Yuri, Rivera,840827104, Jutrzenki, 27, 10, 23
+Reina, Yuli,514068564, Lipna, 36, 35, 24
+Sergio, Dominguez,483767001, Jana Pawla, 45, 29, 25
+Bernard, Rivera,704417614, Truskawkoa, 4, 8, 26
+Bernard, Yuli,865702553, Ananasowa, 7, 19, 27
+Yuri, Rueda,143807837, Szewcowa, 9, 15, 28
+Ivan, Saucedo,473068033, Truskawkoa, 9, 8, 29
+Bernard, Mamami,671452002, Kazimierza Wielkiego, 13, 24, 30
+David, Crespo,775101151, Kazimierza Wielkiego, 21, 24, 31
+Dimas, Galviz,132366606, Kosynierska, 15, 12, 32
+Saul, Mamami,584453552, Okopowa, 0, 2, 33
+Daniel, Mamami,674373072, Porzeczkowa, 46, 33, 34
+Reina, Saucedo,178177026, Kosynierska, 2, 15, 35
+Ivan, Rueda,178665271, Szewcowa, 13, 31, 36
+Reina, Gutierrez,630046444, Jutrzenki, 0, 19, 37
+Ivan, Escobar,116735541, Dobrolistna, 26, 9, 38
+Bernard, Rivera,608852523, Dobrolistna, 42, 25, 39
+Reina, Rivera,344557601, Truskawkoa, 5, 7, 40
+Carolina, Mamami,212112743, Jana Pawla, 44, 30, 41
+Carolina, Dominguez,613070152, Jana Pawla, 23, 22, 42
+David, Gutierrez,854013022, Porzeczkowa, 38, 32, 43
+Reina, Escobar,230788280, Jutrzenki, 49, 23, 44
+Saul, Mamami,714472476, Lipna, 35, 19, 45
+Ivan, Escobar,808223480, Lipna, 12, 39, 46
+Danny, Dominguez,501034316, Lipna, 13, 13, 47
+Bernard, Escobar,652427883, Truskawkoa, 2, 33, 48
+Saul, Tapia,155304152, Swobody, 3, 32, 49
+Reina, Rueda,334711244, Sosnowa, 0, 26, 50
+Reina, Rivera,652745018, Jana Pawla, 6, 3, 51
+Laura, Rivera,373061500, Piekarska, 27, 23, 52
+Carolina, Escobar,221544851, Porzeczkowa, 36, 7, 53
+Daniel, Saucedo,403301158, Szewcowa, 2, 25, 54
+Yuri, Rueda,523504862, Truskawkoa, 9, 25, 55
+Daniel, Dominguez,622234585, Dobrolistna, 21, 19, 56
+Daniel, Rivera,308542077, Kazimierza Wielkiego, 9, 28, 57
+Reina, Rivera,751404867, Truskawkoa, 0, 25, 58
+Bernard, Gutierrez,627604217, Kosynierska, 28, 33, 59
+David, Yuli,416128008, Szewcowa, 27, 26, 60
+Yuri, Gutierrez,351723152, Ananasowa, 20, 25, 61
+David, Yuli,753080255, Jutrzenki, 26, 27, 62
+David, Dominguez,352185813, Jutrzenki, 33, 33, 63
+David, Crespo,880444128, Lipna, 19, 25, 64
+Laura, Escobar,884184164, Jana Pawla, 34, 24, 65
+Yuri, Mamami,303734662, Okopowa, 24, 4, 66
+Bernard, Rueda,601422236, Swobody, 31, 9, 67
+Daniel, Tapia,406675877, Kosynierska, 46, 10, 68
+David, Mamami,665700836, Sosnowa, 17, 35, 69
+Yuri, Galviz,375274110, Szewcowa, 6, 32, 70
+Reina, Gutierrez,203230608, Porzeczkowa, 12, 1, 71
+Yuri, Gutierrez,332320405, Lipna, 1, 22, 72
+Carolina, Tapia,665081268, Dobrolistna, 10, 13, 73
+Ivan, Dominguez,810221755, Okopowa, 16, 6, 74
+Sergio, Mamami,452781317, Okopowa, 39, 22, 75
+Yuri, Rueda,503871036, Piekarska, 34, 1, 76
+Daniel, Yuli,263870228, Jutrzenki, 49, 30, 77
+Yuri, Rueda,406132044, Swobody, 2, 3, 78
+Danny, Rueda,845132816, Ananasowa, 15, 9, 79
+Daniel, Rivera,114713860, Sosnowa, 48, 27, 80
+Carolina, Saucedo,256501344, Ananasowa, 40, 10, 81
+Reina, Tapia,318687322, Ananasowa, 4, 7, 82
+Bernard, Saucedo,446022808, Jutrzenki, 41, 24, 83
+Dimas, Rivera,621446381, Swobody, 15, 33, 84
+Danny, Yuli,325201085, Porzeczkowa, 14, 11, 85
+Bernard, Rueda,230787582, Sosnowa, 41, 20, 86
+David, Tapia,485181658, Truskawkoa, 26, 29, 87
+Bernard, Gutierrez,651830676, Porzeczkowa, 10, 17, 88
+Carolina, Saucedo,101635450, Swobody, 31, 22, 89
+Carolina, Crespo,467327154, Jana Pawla, 39, 24, 90
+David, Rueda,300382481, Kosynierska, 9, 4, 91
+Yuri, Galviz,583231386, Dobrolistna, 11, 17, 92
+Daniel, Rueda,586568381, Sosnowa, 2, 21, 93
+Dimas, Galviz,541260047, Truskawkoa, 13, 13, 94
+Bernard, Rueda,321500224, Kazimierza Wielkiego, 37, 23, 95
+Laura, Dominguez,710007315, Swobody, 16, 4, 96
+Danny, Yuli,102160678, Kosynierska, 12, 13, 97
+Carolina, Mamami,850324655, Sosnowa, 49, 3, 98
+Sergio, Saucedo,628761142, Jana Pawla, 45, 38, 99
+David, Escobar,246150107, Piekarska, 20, 16, 100
+Saul, Rueda,405205166, Okopowa, 8, 21, 101
+Reina, Escobar,307556314, Kosynierska, 43, 27, 102
+Reina, Dominguez,360866014, Dobrolistna, 39, 18, 103
+Carolina, Rueda,718476674, Ananasowa, 49, 10, 104
+David, Galviz,513064304, Sosnowa, 26, 4, 105
+David, Gutierrez,538288324, Swobody, 0, 21, 106
+Danny, Mamami,276066628, Dobrolistna, 4, 31, 107
+Ivan, Dominguez,751415202, Okopowa, 43, 8, 108
+Carolina, Saucedo,608447764, Jana Pawla, 22, 13, 109
+Danny, Tapia,426575570, Lipna, 14, 6, 110
+Sergio, Martin,482674475, Kazimierza Wielkiego, 48, 3, 111
+Daniel, Gutierrez,287308401, Kazimierza Wielkiego, 31, 35, 112
+Ivan, Martin,124055158, Kosynierska, 42, 25, 113
+Danny, Yuli,666554607, Sosnowa, 31, 18, 114
+Yuri, Saucedo,715575735, Dobrolistna, 44, 20, 115
+Bernard, Saucedo,184108343, Swobody, 8, 36, 116
+Carolina, Gutierrez,476106763, Kazimierza Wielkiego, 39, 13, 117
+Carolina, Galviz,188251081, Ananasowa, 5, 12, 118
+Saul, Galviz,700648861, Swobody, 32, 14, 119
+David, Mamami,528718334, Kosynierska, 44, 18, 120
+Saul, Escobar,647255821, Szewcowa, 21, 13, 121
+Saul, Saucedo,748455382, Jutrzenki, 47, 15, 122
+Sergio, Mamami,571403055, Jutrzenki, 23, 11, 123
+Daniel, Yuli,140258582, Kazimierza Wielkiego, 3, 30, 124
+David, Martin,236454633, Okopowa, 11, 7, 125
+Reina, Mamami,888411773, Kosynierska, 40, 20, 126
+Sergio, Rivera,401733313, Kosynierska, 25, 29, 127
+Ivan, Tapia,273463031, Kosynierska, 48, 16, 128
+Sergio, Saucedo,138562721, Szewcowa, 38, 31, 129
+Sergio, Rueda,588150658, Sosnowa, 24, 5, 130
+Ivan, Galviz,816330180, Kazimierza Wielkiego, 43, 33, 131
+Ivan, Galviz,637752628, Szewcowa, 37, 16, 132
+Carolina, Rivera,483266382, Jana Pawla, 32, 24, 133
+David, Escobar,718217851, Kazimierza Wielkiego, 19, 27, 134
+Sergio, Mamami,380426513, Jutrzenki, 22, 29, 135
+Sergio, Dominguez,153751378, Szewcowa, 25, 32, 136
+Sergio, Rivera,714426531, Szewcowa, 0, 27, 137
+Laura, Saucedo,677031448, Kazimierza Wielkiego, 14, 19, 138
+Sergio, Escobar,806327325, Jana Pawla, 4, 26, 139
+Dimas, Mamami,433616002, Dobrolistna, 13, 12, 140
+Daniel, Dominguez,247031302, Kazimierza Wielkiego, 17, 16, 141
+Laura, Gutierrez,362507045, Truskawkoa, 20, 37, 142
+Yuri, Galviz,707840101, Kosynierska, 10, 15, 143
+Ivan, Rueda,120836644, Sosnowa, 15, 25, 144
+Yuri, Dominguez,888764212, Dobrolistna, 14, 8, 145
+David, Galviz,542155328, Jana Pawla, 9, 15, 146
+Bernard, Rueda,585164127, Ananasowa, 7, 36, 147
+Daniel, Dominguez,811034785, Ananasowa, 10, 25, 148
+Danny, Mamami,855027531, Piekarska, 2, 14, 149
+Carolina, Yuli,578844360, Truskawkoa, 26, 25, 150
+Daniel, Yuli,343024218, Dobrolistna, 17, 22, 151
+Yuri, Galviz,154544371, Ananasowa, 15, 10, 152
+Bernard, Mamami,526628051, Porzeczkowa, 5, 16, 153
+Yuri, Gutierrez,775116546, Okopowa, 14, 20, 154
+Dimas, Crespo,456518554, Sosnowa, 24, 18, 155
+Daniel, Mamami,480838831, Porzeczkowa, 31, 5, 156
+Laura, Yuli,584255157, Jutrzenki, 39, 8, 157
+Carolina, Saucedo,371621076, Sosnowa, 27, , 158
+Dimas, Escobar,450534051, Szewcowa, 12, 31, 159
+Yuri, Galviz,105216028, Lipna, 3, 26, 160
+Dimas, Escobar,225201118, Dobrolistna, 7, 29, 161
+Reina, Rueda,640382665, Piekarska, 47, 2, 162
+Saul, Martin,623733370, Okopowa, 28, 39, 163
+Ivan, Mamami,174752546, Piekarska, 45, 15, 164
+Laura, Martin,620121363, Jana Pawla, 14, 34, 165
+Reina, Rueda,444767678, Truskawkoa, 22, 7, 166
+Dimas, Escobar,442540173, Sosnowa, 28, 12, 167
+Dimas, Gutierrez,548706013, Jutrzenki, 33, 34, 168
+David, Rueda,368562275, Kazimierza Wielkiego, 32, 24, 169
+Reina, Saucedo,260213234, Ananasowa, 5, 10, 170
+Carolina, Dominguez,154332466, Dobrolistna, 2, 26, 171
+Ivan, Martin,855704056, Kazimierza Wielkiego, 29, 34, 172
+Ivan, Martin,240810707, Dobrolistna, 4, 17, 173
+Yuri, Saucedo,175735477, Truskawkoa, 10, 16, 174
+Dimas, Rueda,854065411, Okopowa, 43, 34, 175
+Sergio, Martin,767635572, Kosynierska, 17, 14, 176
+Yuri, Saucedo,623473113, Lipna, 46, 33, 177
+Ivan, Rueda,675265018, Truskawkoa, 38, 4, 178
+Dimas, Galviz,331621482, Lipna, 36, 23, 179
+Danny, Galviz,301867033, Ananasowa, 16, 24, 180
+Ivan, Gutierrez,342150785, Jana Pawla, 18, 31, 181
+David, Crespo,580284776, Kosynierska, 0, 36, 182
+Sergio, Martin,154577564, Jana Pawla, 35, 12, 183
+Sergio, Escobar,427732744, Szewcowa, 39, 18, 184
+Bernard, Crespo,802508803, Porzeczkowa, 8, 30, 185
+Sergio, Mamami,483164334, Ananasowa, 1, 21, 186
+Carolina, Dominguez,137801847, Jana Pawla, 16, 15, 187
+Bernard, Gutierrez,828811045, Kazimierza Wielkiego, 4, 19, 188
+Sergio, Rivera,510283086, Okopowa, 43, 38, 189
+Danny, Mamami,214818411, Szewcowa, 23, 19, 190
+Reina, Martin,727703851, Szewcowa, 19, 35, 191
+Daniel, Gutierrez,584020340, Jutrzenki, 49, 15, 192
+Dimas, Crespo,146084141, Lipna, 2, 22, 193
+Saul, Dominguez,801255511, Sosnowa, 6, 10, 194
+Ivan, Crespo,256834465, Szewcowa, 34, 4, 195
+Yuri, Mamami,671607480, Sosnowa, 37, 34, 196
+Sergio, Tapia,323538248, Porzeczkowa, 1, 12, 197
+Ivan, Galviz,423684432, Dobrolistna, 36, 9, 198
+Reina, Rivera,684076334, Jana Pawla, 43, 6, 199
+Yuri, Rivera,716561463, Kazimierza Wielkiego, 16, 36, 200
+Sergio, Dominguez,832018804, Dobrolistna, 45, 4, 201
+Yuri, Mamami,702153412, Porzeczkowa, 37, 35, 202
+Saul, Mamami,464434300, Szewcowa, 13, 29, 203
+David, Saucedo,557323834, Kosynierska, 18, 32, 204
+Carolina, Crespo,244620574, Sosnowa, 37, 27, 205
+Daniel, Rueda,876607558, Dobrolistna, 46, 1, 206
+Yuri, Saucedo,228304848, Kazimierza Wielkiego, 4, 28, 207
+Ivan, Martin,153752355, Porzeczkowa, 10, 22, 208
+Danny, Galviz,534805522, Swobody, 40, 17, 209
+Reina, Dominguez,871767426, Ananasowa, 29, 23, 210
+Dimas, Rueda,604533853, Lipna, 3, 33, 211
+Daniel, Escobar,475348666, Dobrolistna, 49, 14, 212
+Dimas, Martin,511300511, Lipna, 26, 12, 213
+David, Rueda,435276786, Truskawkoa, 43, 37, 214
+Yuri, Rivera,336035824, Okopowa, 13, 6, 215
+Bernard, Mamami,575043224, Kazimierza Wielkiego, 24, 28, 216
+Ivan, Gutierrez,381315878, Kosynierska, 17, 10, 217
+Carolina, Gutierrez,777646286, Lipna, 34, , 218
+Sergio, Martin,814002755, Truskawkoa, 13, 31, 219
+Yuri, Escobar,768408456, Jana Pawla, 20, 17, 220
+Sergio, Martin,282687863, Jutrzenki, 20, 9, 221
+Danny, Rivera,278734182, Ananasowa, 28, 9, 222
+Daniel, Dominguez,462273366, Sosnowa, 42, 2, 223
+Laura, Yuli,375851487, Szewcowa, 15, 10, 224
+Bernard, Rueda,662226266, Kosynierska, 41, 20, 225
+Saul, Gutierrez,171050538, Dobrolistna, 40, 21, 226
+Saul, Tapia,728811088, Swobody, 37, 25, 227
+David, Galviz,106538707, Kazimierza Wielkiego, 31, 7, 228
+David, Martin,660876745, Ananasowa, 24, 3, 229
+Bernard, Crespo,858428386, Szewcowa, 35, 33, 230
+Daniel, Galviz,455747213, Okopowa, 39, 23, 231
+Yuri, Crespo,446636123, Truskawkoa, 42, 31, 232
+Laura, Gutierrez,148000185, Ananasowa, 41, 30, 233
+Carolina, Rivera,371216427, Kosynierska, 34, 6, 234
+David, Crespo,378784071, Piekarska, 22, 18, 235
+Danny, Rivera,765783845, Jutrzenki, 14, 30, 236
+David, Dominguez,665028570, Sosnowa, 34, 17, 237
+Danny, Tapia,683320406, Dobrolistna, 9, 31, 238
+Ivan, Rivera,223712036, Lipna, 40, , 239
+Sergio, Escobar,620464762, Kazimierza Wielkiego, 15, 27, 240
+Yuri, Rueda,180077577, Sosnowa, 17, 11, 241
+Saul, Saucedo,248713334, Ananasowa, 47, 18, 242
+Saul, Dominguez,830883277, Kosynierska, 21, 33, 243
+Laura, Tapia,423214570, Szewcowa, 14, 26, 244
+David, Yuli,343181836, Kosynierska, 48, 16, 245
+David, Rivera,641205821, Sosnowa, 45, 2, 246
+Bernard, Tapia,317106320, Dobrolistna, 46, , 247
+Yuri, Martin,508251157, Jana Pawla, 34, 4, 248
+David, Martin,405427053, Kazimierza Wielkiego, 49, 15, 249
+Carolina, Martin,452658603, Jana Pawla, 42, 29, 250

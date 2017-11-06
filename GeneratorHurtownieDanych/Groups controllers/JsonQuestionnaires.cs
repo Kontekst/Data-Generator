@@ -53,5 +53,9 @@ namespace GeneratorHurtownieDanych
             wr.Close();
         }
 
+        public void generateNewQuestionnaires(int secondAmount)
+        {
+           
+        }
     }
 }
